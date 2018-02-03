@@ -1,0 +1,3986 @@
+[{
+        "salt": "Abacavir",
+        "no": "10",
+        "singleLink": [{
+                "brand": "Abamune",
+                "manu": "Cipla Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abamune (300mg)",
+                "manu": "Cipla Limited",
+                "val": "300",
+                "mes": "mg"
+            },
+            {
+                "brand": "Abavir",
+                "manu": "Genix Pharma (Pvt.) Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abavir (300mg)",
+                "manu": "Hetero Healthcare Ltd. (GenX)",
+                "val": "300",
+                "mes": "mg"
+            },
+            {
+                "brand": "Abcavir",
+                "manu": "Taj Pharmaceuticals Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abec",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abec (300mg)",
+                "manu": "Emcure Pharmaceuticals Ltd. (ARV)",
+                "val": "300",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abmune",
+                "manu": "Cipla Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Virol",
+                "manu": "Ranbaxy Laboratories Ltd. (Super Speciality)",
+                "val": 0,
+                "mes": ""
+            }
+        ],
+        "combLink": [{
+            "brand": "Abamune-L (600mg/ 300mg)",
+            "manu": "Abacavir 600mg + Lamivudine 300mg",
+            "val": "600",
+            "mes": "mg"
+        }]
+    },
+    {
+        "salt": "Abciximab",
+        "no": "1",
+        "singleLink": [{
+            "brand": "Reopro",
+            "manu": "Eli Lilly and Company (India)",
+            "val": 0,
+            "mes": ""
+        }]
+    },
+    {
+        "salt": "Acacia",
+        "no": "1",
+        "combLink": [{
+            "brand": "Scalp Clean",
+            "manu": "Aloe Vera 10%w/w + Azadirachta Indica Oil 0.5%w/v + Rosemary 0.5w/w + Tea Tree Oil 0.5%w/w + Jojoba Oil 0.5%w/w + Acacia 0.5%w/w + Glycerin 1%w/w + Milk Protein 0.25%w/w",
+            "val": 0,
+            "mes": ""
+        }]
+    },
+    {
+        "salt": "Acamprosate",
+        "no": "3",
+        "singleLink": [{
+                "brand": "Acamprol tab",
+                "manu": "Sun Pharmaceuticals Industries Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acamptass (333 mg)",
+                "manu": "Intas Pharmaceutical Ltd.",
+                "val": "333",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acmacal tab",
+                "manu": "Psycoremedies",
+                "val": 0,
+                "mes": ""
+            }
+        ]
+    },
+    {
+        "salt": "Acarbose",
+        "no": "51",
+        "singleLink": [{
+                "brand": "Abacus",
+                "manu": "Nucron Pharmaceuticals (P) Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abacus 50",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acarb ( 25mg)",
+                "manu": "Orchid Chemicals & Pharmaceuticals Ltd. (Diabetes)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarb ( 50mg)",
+                "manu": "Orchid Chemicals & Pharmaceuticals Ltd. (Diabetes)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarex ( 25mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarex ( 50mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarex (25 mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acarex (50 mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarwin",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acarwin 50",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acraz",
+                "manu": "RPG Life Sciences Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asucrose",
+                "manu": "Wockhardt Limited (Merind)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asucrose (50mg)",
+                "manu": "Wockhardt Limited (Merind)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diabose",
+                "manu": "Cardicare (Micro Labs  Ltd)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Diabose (25mg)",
+                "manu": "Micro Labs Ltd (Cardicare)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Diabose (50 mg)",
+                "manu": "Cardicare (Micro Labs  Ltd)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diabose (50mg)",
+                "manu": "Micro Labs Ltd (Cardicare)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diadose",
+                "manu": "Psychotop (Solitaire Pharmacia Pvt Ltd)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Discarb",
+                "manu": "BAL Pharma Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Discarb (50 mg)",
+                "manu": "BAL Pharma Ltd",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Disorb",
+                "manu": "Elder Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Disorb (50 mg)",
+                "manu": "Elder Pharmaceuticals Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glubose (25 mg)",
+                "manu": "Aristo Pharmaceuticals Ltd. (Otsira)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Glubose (50 mg)",
+                "manu": "Aristo Pharmaceuticals Ltd. (Otsira)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (25 mg)",
+                "manu": "Healtheon (Glenmark Pharmaceuticals Ltd.)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (25mg)",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Healthon)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (50mg)",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Healthon)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (50mg)",
+                "manu": "Healtheon (Glenmark Pharmaceuticals Ltd.)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucarb",
+                "manu": "West Coast Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Glucobay",
+                "manu": "BAYER (INDIA) LTD",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Glucobay (100mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobay (25mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobay (50 mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobay (50mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobose",
+                "manu": "Medley Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Gludase",
+                "manu": "Alkem Laboratories Ltd. (Pentacare)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Hebose",
+                "manu": "Mascot Health Series Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Hebose (50 mg)",
+                "manu": "Mascot Health Series Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "K -Carb",
+                "manu": "Blue Cross Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "K -Carb (50 mg)",
+                "manu": "Blue Cross Laboratories Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "NDS (120mg)",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": "120",
+                "mes": "mg"
+            },
+            {
+                "brand": "NDS (60mg)",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": "60",
+                "mes": "mg"
+            },
+            {
+                "brand": "Olcarbos",
+                "manu": "Olcare Laboratories",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Olcarbos (50 mg)",
+                "manu": "Olcare Laboratories",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Rebose",
+                "manu": "Arian (Sun Pharmaceutical Industries Ltd.)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Rebose (50 mg)",
+                "manu": "Arian (Sun Pharmaceutical Industries Ltd.)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Recarb",
+                "manu": "BAL Pharma Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Recarb (50 mg)",
+                "manu": "BAL Pharma Ltd",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Subase",
+                "manu": "HOS & INS",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zebay-25",
+                "manu": "Zee Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zebose",
+                "manu": "Biomax Biotechnics Pvt Ltd",
+                "val": 0,
+                "mes": ""
+            }
+        ]
+    },
+    {
+        "salt": "Acebrofylline",
+        "no": "27",
+        "combLink": "acebrofylline-combination.htm"
+    },
+    {
+        "salt": "Acebrofylline (SR)",
+        "no": "3",
+        "combLink": "acebrofylline-sr-combination.htm"
+    },
+    {
+        "salt": "Acebrophylline",
+        "no": "29",
+        "singleLink": [{
+                "brand": "Abacus",
+                "manu": "Nucron Pharmaceuticals (P) Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Abacus 50",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acarb ( 25mg)",
+                "manu": "Orchid Chemicals & Pharmaceuticals Ltd. (Diabetes)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarb ( 50mg)",
+                "manu": "Orchid Chemicals & Pharmaceuticals Ltd. (Diabetes)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarex ( 25mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarex ( 50mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarex (25 mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acarex (50 mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acarwin",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acarwin 50",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acraz",
+                "manu": "RPG Life Sciences Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asucrose",
+                "manu": "Wockhardt Limited (Merind)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asucrose (50mg)",
+                "manu": "Wockhardt Limited (Merind)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diabose",
+                "manu": "Cardicare (Micro Labs  Ltd)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Diabose (25mg)",
+                "manu": "Micro Labs Ltd (Cardicare)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Diabose (50 mg)",
+                "manu": "Cardicare (Micro Labs  Ltd)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diabose (50mg)",
+                "manu": "Micro Labs Ltd (Cardicare)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diadose",
+                "manu": "Psychotop (Solitaire Pharmacia Pvt Ltd)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Discarb",
+                "manu": "BAL Pharma Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Discarb (50 mg)",
+                "manu": "BAL Pharma Ltd",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Disorb",
+                "manu": "Elder Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Disorb (50 mg)",
+                "manu": "Elder Pharmaceuticals Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glubose (25 mg)",
+                "manu": "Aristo Pharmaceuticals Ltd. (Otsira)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Glubose (50 mg)",
+                "manu": "Aristo Pharmaceuticals Ltd. (Otsira)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (25 mg)",
+                "manu": "Healtheon (Glenmark Pharmaceuticals Ltd.)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (25mg)",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Healthon)",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (50mg)",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Healthon)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucar (50mg)",
+                "manu": "Healtheon (Glenmark Pharmaceuticals Ltd.)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucarb",
+                "manu": "West Coast Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Glucobay",
+                "manu": "BAYER (INDIA) LTD",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Glucobay (100mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobay (25mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "25",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobay (50 mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobay (50mg)",
+                "manu": "BAYER (INDIA) LTD",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glucobose",
+                "manu": "Medley Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Gludase",
+                "manu": "Alkem Laboratories Ltd. (Pentacare)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Hebose",
+                "manu": "Mascot Health Series Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Hebose (50 mg)",
+                "manu": "Mascot Health Series Pvt. Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "K -Carb",
+                "manu": "Blue Cross Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "K -Carb (50 mg)",
+                "manu": "Blue Cross Laboratories Ltd.",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "NDS (120mg)",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": "120",
+                "mes": "mg"
+            },
+            {
+                "brand": "NDS (60mg)",
+                "manu": "Emcure Pharmaceuticals Ltd.",
+                "val": "60",
+                "mes": "mg"
+            },
+            {
+                "brand": "Olcarbos",
+                "manu": "Olcare Laboratories",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Olcarbos (50 mg)",
+                "manu": "Olcare Laboratories",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Rebose",
+                "manu": "Arian (Sun Pharmaceutical Industries Ltd.)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Rebose (50 mg)",
+                "manu": "Arian (Sun Pharmaceutical Industries Ltd.)",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Recarb",
+                "manu": "BAL Pharma Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Recarb (50 mg)",
+                "manu": "BAL Pharma Ltd",
+                "val": "50",
+                "mes": "mg"
+            },
+            {
+                "brand": "Subase",
+                "manu": "HOS & INS",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zebay-25",
+                "manu": "Zee Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zebose",
+                "manu": "Biomax Biotechnics Pvt Ltd",
+                "val": 0,
+                "mes": ""
+            }
+        ]
+    },
+    {
+        "salt": "Aceclofenac",
+        "no": "1138",
+        "singleLink": [{
+                "brand": "A -Niclo 100",
+                "manu": "Aknil Biotech",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aace Fa 100",
+                "manu": "M.M. Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aacept SR (200mg)",
+                "manu": "Vivid Biotek Pvt. Ltd",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Abate SR (200mg)",
+                "manu": "Genesis Biotech Inc.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Abdal (100mg)",
+                "manu": "Madhav Biotech Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Abdal 100",
+                "manu": "Madhav Biotech Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "AC FC 100",
+                "manu": "MMC Health Care Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "AC-1 100",
+                "manu": "Pharma Synth Formulations Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "AC-100",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "ACB (100mg)",
+                "manu": "Vensat Bio",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acb 100",
+                "manu": "Vensat Bio",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Accept SR (200mg)",
+                "manu": "Vivid Biotek Pvt. Ltd",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Ace (100mg)",
+                "manu": "Alsun pharmaceutical",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aceact (150mg)",
+                "manu": "Active Healthcare",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aceact (200mg)",
+                "manu": "Active HC",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acebloc",
+                "manu": "Biochem Pharmaceutical Industries Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acebloc (100mg)",
+                "manu": "Biochem Pharmaceutical Industries Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acec",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acec (100mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acec (200mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aceclan",
+                "manu": "Anthus Pharamaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceclan (100mg)",
+                "manu": "Anthus Pharamaceuticals Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aceclan (200mg)",
+                "manu": "Anthus Pharamaceuticals Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceclo",
+                "manu": "Aristo Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceclo SR (200mg)",
+                "manu": "Aristo Pharmaceuticals Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aceclocare",
+                "manu": "Bindlysh Biotech Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceclodin",
+                "manu": "Meri Odin Life Sciences",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceclof",
+                "manu": "Total Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceclonij 100",
+                "manu": "Sunij Pharma Pvt Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "",
+                "manu": "",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceden",
+                "manu": "BMW PHARMACO INDIA PVT.LTD.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceden SR (200mg)",
+                "manu": "BMW PHARMACO INDIA PVT.LTD.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acefen",
+                "manu": "Salud Care (I) Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceflow",
+                "manu": "B.L. Pharma Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceflow SR (200mg)",
+                "manu": "B.L. Pharma Ltd",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aceforce",
+                "manu": "Alcare (Akums Drugs Pharmaceuticals Ltd.)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acegesic",
+                "manu": "Oyster Labs Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acekyor (200mg)",
+                "manu": "Lifekyor Pharmaceuticals",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acelo",
+                "manu": "Aust Ind Labs",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acelofan",
+                "manu": "Acto Pharmaceuticals Laboratories",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acelofan SR (200mg)",
+                "manu": "Acto Pharmaceuticals Laboratories",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acelom",
+                "manu": "Om Biomedic Pvt Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acemarc",
+                "manu": "Marc Laboratories Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acemarc SR (200mg)",
+                "manu": "Marc Laboratories Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acemove Inj (150mg)",
+                "manu": "Sanat Products Ltd",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acenac",
+                "manu": "Medley Pharmaceuticals Ltd. (Suprakare)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acenac SR (200mg)",
+                "manu": "Medley Pharmaceuticals Ltd. (Suprakare)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acenal",
+                "manu": "Epitome Life Sciences",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acenal SR (200mg)",
+                "manu": "Epitome Life Sciences",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acenez (150mg)",
+                "manu": "Wintech Pharmaceuticals",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acenez (150mg)",
+                "manu": "Wintech Pharmaceuticals",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acenez (200mg)",
+                "manu": "Wintech Pharmaceuticals",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acent",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acent (100mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acent (100mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acent (150mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acent (150mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acent (200mg)",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acent MD",
+                "manu": "Intra Labs India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acepain SR (200mg)",
+                "manu": "Coles Pharma",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acepal",
+                "manu": "Tanpal Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acepar (200mg)",
+                "manu": "Lacqure Healthcare",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acepar-SR (200mg)",
+                "manu": "Allenge India",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acep-P",
+                "manu": "Sykocure Lifesciences",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acerap",
+                "manu": "Rapross Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acerik 100",
+                "manu": "Lanark Laboratories Pvt Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aceroc (200mg)",
+                "manu": "Wockhardt Limited (Orion)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acerock SR 200",
+                "manu": "Rockstar Pharma (group of Athens Labs)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acetal",
+                "manu": "Talent Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acewalk",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acewalk (100mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd. (Ikeirdorf)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acewalk (100mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd. (Ikeirdorf)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acewalk (200mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd. (Ikeirdorf)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acewalk SR (200mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd. (Ikeirdorf)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acewel",
+                "manu": "Welcure Drugs Pharmaceuticals Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acewok (100mg)",
+                "manu": "Intra Labs India Pvt. Ltd. (Intra Life)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acewok-SR (200mg)",
+                "manu": "Intra Labs India Pvt. Ltd. (Intra Life)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acezo-SR (200mg)",
+                "manu": "Zodley Pharmaceuticals Pvt Ltd",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Achenil",
+                "manu": "Waksman Selman Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Achquit",
+                "manu": "Sozin Flora Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "ACI (200mg)",
+                "manu": "Plus India",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acicloflex Tab",
+                "manu": "Grandix Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acicloflex Tab (200 mg)",
+                "manu": "Grandix Pharmaceuticals",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acifact",
+                "manu": "Medico Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acifon",
+                "manu": "Zenon Healthcare Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Acifon SR (200mg)",
+                "manu": "Zenon Healthcare Ltd",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acik",
+                "manu": "Synokem Pharmaceuticals Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aciwide-200 SR (100mg)",
+                "manu": "World Wide Remedies",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aciz",
+                "manu": "Ritz Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclo",
+                "manu": "Injecto Capta Private Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclo (100mg)",
+                "manu": "Cure Quick Remedies",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aclocta",
+                "manu": "Natco Pharma Limited (Octan)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclodol",
+                "manu": "Jayson Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclofen SR",
+                "manu": "Auztus Laboratories Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclogem",
+                "manu": "Genetic Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclon",
+                "manu": "Iscon Life Sciences",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclopam",
+                "manu": "Welkind Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclopic",
+                "manu": "Alpic Biotech Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclopride (100mg)",
+                "manu": "Pride Healthcare",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aclorax (150mg)",
+                "manu": "Rax Health Care Pvt. Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aclotec",
+                "manu": "Techyon Biotech Private Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclotec CR",
+                "manu": "Techyon Biotech Private Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aclova-SR (200mg)",
+                "manu": "Signova Pharma Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aclozen (150mg)",
+                "manu": "Zenlabs India",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acnac (150mg)",
+                "manu": "Unico Drugs",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acota (100mg)",
+                "manu": "Cadila Pharmaceuticals Ltd. (Vibra)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Acota FC",
+                "manu": "Cadila Pharmaceuticals Ltd. (Vibra)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "ACP (100 mg)",
+                "manu": "Lifecom Pharmaceuticals (India) Pvt Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Act",
+                "manu": "Radico Remedies",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Afen",
+                "manu": "Ambition Pharma Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Afesan (150mg)",
+                "manu": "Sanify Healthcare Pvt. Ltd. (Syntonic Lifesciences)",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Algesia-SR (100mg)",
+                "manu": "Macleods Pharmaceuticals Ltd. (Gencare)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Algesia-SR (200mg)",
+                "manu": "Macleods Pharmaceuticals Ltd. (Gencare)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Alnac",
+                "manu": "Alka Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Alnase",
+                "manu": "Alna Biotech",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Alnase  (100mg)",
+                "manu": "Alna Biotech",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Alnase  (200mg)",
+                "manu": "Alna Biotech",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Alnase 100",
+                "manu": "Alna Biotech",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Alonac",
+                "manu": "East West Pharma",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Alonac (100mg)",
+                "manu": "East West Pharma",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aloo -SR",
+                "manu": "Bestochem Formulations (India) Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aloo-SR (200mg)",
+                "manu": "Bestochem Formulations (India) Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Alto",
+                "manu": "Pharmatech Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Altraflam SR (200mg)",
+                "manu": "Ranbaxy Laboratories Ltd. (Croslands)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Anac",
+                "manu": "Healers Nutraceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Anace",
+                "manu": "Ace Kinetics Health Care Private Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Ancip (100 mg)",
+                "manu": "Suraksha Pharma",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arcefenac",
+                "manu": "Aryan Biological Corporation",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Arcefenac SR (200mg)",
+                "manu": "Aryan Biological Corporation",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arflur (150mg)",
+                "manu": "FDC Limited (Select)",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arflur (200mg)",
+                "manu": "FDC Limited (Select)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arflur 100",
+                "manu": "FDC Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Arflur INJ (150mg/ ml)",
+                "manu": "FDC Limited (Select)",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arflur-100 (100mg)",
+                "manu": "FDC Limited (Select)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Aristo Aceclo",
+                "manu": "Aristo Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aroff BCD",
+                "manu": "Unichem Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Aroff -FC",
+                "manu": "Unichem Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Arrestin",
+                "manu": "Svizera Healthcare (Inspira)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Arrestin  (100mg)",
+                "manu": "Svizera Healthcare (Inspira)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arrestin  (200mg)",
+                "manu": "Svizera Healthcare (Inspira)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Arrestin -FC",
+                "manu": "Svizera Healthcare (Inspira)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Arrestin -SR",
+                "manu": "Svizera Healthcare (Inspira)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Ascapar",
+                "manu": "Welcure Drugs Pharmaceuticals Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Ascapar (100 mg)",
+                "manu": "Plenteous Pharmaceuticals Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Ascapar SR",
+                "manu": "Welcure Drugs Pharmaceuticals Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asefan - 100",
+                "manu": "Sanify Healthcare Pvt. Ltd. (Sanative Remedies)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asera",
+                "manu": "Corona Remedies Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asonac (100mg)",
+                "manu": "Zee Laboratories Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Asonac -100",
+                "manu": "Zee Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Asonac SR (200mg)",
+                "manu": "Zee Laboratories Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Atofen",
+                "manu": "Atoz Pharmaceuticals (Zota Healthcare Private Limited)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Avir",
+                "manu": "EAST AFRICAN(INDIA) REMEDIES PVT.LTD",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Avnac (200mg)",
+                "manu": "Avyukt",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Away",
+                "manu": "G R Healthcare Laboratories",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Awnec",
+                "manu": "Shawn & Co",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Axus",
+                "manu": "Nexus Biotech",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Axus (200mg)",
+                "manu": "Nexus Biotech",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Cambio",
+                "manu": "Medicamen Biotech Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Canefo FC",
+                "manu": "Medopharm",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Carnil AC",
+                "manu": "Azine Healthcare Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Carnil-AC (100mg)",
+                "manu": "Azine Healthcare Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Chronac SR",
+                "manu": "Bestochem Formulations (India) Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Clonac (100 mg)",
+                "manu": "Laborate Pharmaceuticals India Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Clonac (100mg)",
+                "manu": "Sunrise Remedies Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Closun",
+                "manu": "Sungrace Pharma Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Cytoflam",
+                "manu": "Cytochem Healthcare (india) Private Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Decomb (100mg)",
+                "manu": "Alde Medi Impex Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Diplofen",
+                "manu": "Novagen Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "DIPT (100mg)",
+                "manu": "Rhine Biogenics Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "DIPT (200mg)",
+                "manu": "Rhine Biogenics Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Dipt FC",
+                "manu": "Rhine Biogenics Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolochek",
+                "manu": "Indoco Remedies Ltd. (Spade)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolokind",
+                "manu": "Mankind Pharma Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolokind SR",
+                "manu": "Mankind Pharma Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dololax",
+                "manu": "Helax Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolostat FC",
+                "manu": "Blue Cross Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolour",
+                "manu": "Saviour Medi Science",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolowin",
+                "manu": "Micro Labs Ltd (India)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Dolowin  (200mg)",
+                "manu": "Micro Labs Ltd (India)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Eclonac FC",
+                "manu": "Jagsonpal Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Elfenac SR (200mg)",
+                "manu": "Captab Biotec",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Fastnac-SR (200mg)",
+                "manu": "Lupin Laboratories Ltd. (Lupinova)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Fenbest",
+                "manu": "Maneesh Pharmaceuticals Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Fico FC",
+                "manu": "Emcure Pharmaceuticals Ltd (Shweiz)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Firstace",
+                "manu": "Kee Pharma Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Flamace",
+                "manu": "Biomax Laboratories",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Flamese A",
+                "manu": "Meridian Medicare Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Flamtop SR (200mg)",
+                "manu": "Solitaire Pharmacia Pvt. Ltd. (CureMax)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Flaxinac SR (200mg)",
+                "manu": "Solitaire Pharmacia Pvt. Ltd. (Radix Biotech)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Flaxinac-SR (100mg)",
+                "manu": "",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Fornac",
+                "manu": "Forgo Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Fornac (150mg)",
+                "manu": "Forgo Pharmaceuticals Pvt. Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Fornac SR (200mg)",
+                "manu": "Forgo Pharmaceuticals Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Fortafen (100mg)",
+                "manu": "Alembic Chemical Works Co. Ltd. (Megacare)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Fortafen FC",
+                "manu": "Alembic Chemical Works Co Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Fulnac",
+                "manu": "Ion Healthcare Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Genac (200mg)",
+                "manu": "Rishab Health Care Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Glafen (200mg)",
+                "manu": "Gladcare Formulations Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Havday",
+                "manu": "Unisolve Pharmaceuticals Pvt Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Hifenac",
+                "manu": "Intas Pharmaceutical Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Hifenac (150mg)",
+                "manu": "Intas Pharmaceutical Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Inane",
+                "manu": "Kamakshi Drugs & Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Inane SR (200mg)",
+                "manu": "Kamakshi Drugs & Pharmaceuticals",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Infafen",
+                "manu": "Agron Remedies Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Iofen",
+                "manu": "Dion Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Isiko",
+                "manu": "Siesta Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Kafenac -SR",
+                "manu": "Kavya Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Kairnac",
+                "manu": "PDC Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Kindac-SR (200mg)",
+                "manu": "KinDex Pharmaceuticals",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Kinectine FC",
+                "manu": "Anglo-French Drugs & Industries Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Klacee -100",
+                "manu": "Klokter Life Sciences",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Labace",
+                "manu": "Hiral Labs Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Labonac",
+                "manu": "Laborate Pharmaceuticals India Ltd. (Multicure)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Lekace",
+                "manu": "J.B.Chemicals & Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Lessen",
+                "manu": "LEE PHARMA LIMITED.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Letgo",
+                "manu": "Orion Biotech Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Letgo (100mg)",
+                "manu": "Orion Biotech Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Letgo (200mg)",
+                "manu": "Orion Biotech Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Letgo SR (200mg)",
+                "manu": "Orion Biotech Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Litonac-SR (100mg)",
+                "manu": "Little Greave Pharmaceuticals Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Locoace",
+                "manu": "Alchemist Lifesciences Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Mahanac  (100mh)",
+                "manu": "Zuventus Healthcare. (Zuvista)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Mahanac  (200mg)",
+                "manu": "Zuventus Healthcare. (Zuvista)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Mahanac (100mg)",
+                "manu": "Zuventus Healthcare. (Zuvista)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Mahanac (200mg)",
+                "manu": "Zuventus Healthcare. (Zuvista)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Megadox (200mg)",
+                "manu": "Pharmacon Gignos",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Micronac",
+                "manu": "Micro Labs Ltd. (Micro HC)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Movace FC",
+                "manu": "Alkem Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Movace SR",
+                "manu": "Alkem Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Movexx FC",
+                "manu": "Cipla Limited",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Moviz",
+                "manu": "J.B.Chemicals & Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Moviz (100mg)",
+                "manu": "JB Chemicals & Pharma Ltd. (Unique)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Movon (100 mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Movon (150mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Movon (200mg)",
+                "manu": "IPCA Laboratories Ltd. (IPM)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Movon CR (200mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Movon SR (200mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Movon-CR (400mg)",
+                "manu": "IPCA Laboratories Ltd. (IPM)",
+                "val": "400",
+                "mes": "mg"
+            },
+            {
+                "brand": "Nacku SR (200mg)",
+                "manu": "Rishab Health Care Pvt. Ltd. (Kurekemi)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Naid",
+                "manu": "Winsome Laboratories Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Nakfen SR",
+                "manu": "Sanko Biotech",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Nano (150mg)",
+                "manu": "Laborate Pharmaceuticals India Ltd. (Multicure)",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Naplonac - SR",
+                "manu": "Piramal Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Nexonac (100mg)",
+                "manu": "Emenox Healthcare",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Nexonac-SR (200mg)",
+                "manu": "Emenox Healthcare",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Niplonac",
+                "manu": "Piramal Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Niplonac (100mg)",
+                "manu": "AHPL",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Niplonac-SR (200mg)",
+                "manu": "AHPL",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Novo SR (200mg)",
+                "manu": "Novogen Captab Biotec (Novo Nordisk Pharma India Ltd)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Nusaid  (100mg)",
+                "manu": "Molekule India Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Nusaid  (200mg)",
+                "manu": "Molekule India Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Nusaid FC",
+                "manu": "Molekule India Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Oace",
+                "manu": "Oasis Laboratories Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Octace",
+                "manu": "Octane Biotech Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Octane",
+                "manu": "Octane Biotech Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Odonac",
+                "manu": "Klar Sehen Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Osmoril",
+                "manu": "Kentreck Laboratories Pvt Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Ostafresh",
+                "manu": "Pharma Drugs & Chemicals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Osteofen",
+                "manu": "Pentamark Organics",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Otonac SR (200mg)",
+                "manu": "Solitaire Pharmacia Pvt. Ltd. (Euro Biotech)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Paindol SR",
+                "manu": "Bajaj Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Painil (100mg)",
+                "manu": "Cipla Limited",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Painout (100mg)",
+                "manu": "Ethix Health Care",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Panace (100mg)",
+                "manu": "Psycoremedies",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Panace (100mg)",
+                "manu": "Psyco Remedies",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Parflex SR",
+                "manu": "Flamingo Pharmaceutical",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Peale",
+                "manu": "Cadila Pharmaceuticals Ltd. (IRM Pharma)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Peale (100mg)",
+                "manu": "Cadila Pharmaceuticals Ltd. (IRM Pharma)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Peale (200mg)",
+                "manu": "Cadila Pharmaceuticals Ltd. (IRM Pharma)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Pecec",
+                "manu": "Penam Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Powernac SR (200mg)",
+                "manu": "Rishab Health Care Pvt. Ltd. (Orochem)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Racenac",
+                "manu": "Azine Healthcare Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Raliwiz",
+                "manu": "Wiscon Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Raliwiz 200 SR",
+                "manu": "Wiscon Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Rofaclo",
+                "manu": "Sun Pharmaceuticals Industries Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Rofil (200mg)",
+                "manu": "Marc Healthcare",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Samonec SR (200mg)",
+                "manu": "Aamorb Pharmaceuticals Pvt. Ltd. (St. Morison)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Sananac",
+                "manu": "Sanify Healthcare Pvt. Ltd. (Sanative Remedies)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Sananac SR (200mg)",
+                "manu": "Sanify Healthcare Pvt. Ltd. (Sanative Remedies)",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Sayofen",
+                "manu": "Zota Health Care Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Serofin -AC",
+                "manu": "Globus Remedies Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Siclo SR",
+                "manu": "Sidhbali Formulation",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Signoflam SR",
+                "manu": "Lupin Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Signoflam-SR (200mg)",
+                "manu": "Lupin Laboratories Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Sonic",
+                "manu": "Olcare Laboratories (Evacare)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Starmoto",
+                "manu": "Minova Life Sciences Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Starmoto (200mg)",
+                "manu": "Minova Life Sciences Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Starnac",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Starnac (150mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Starnac -MD",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Starnac SR (200mg)",
+                "manu": "Invision Medi Sciences Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Steclo SR (200mg)",
+                "manu": "ASSURE LIFESCIENCE PVT. LTD.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Stednac (100mg)",
+                "manu": "Stedman Pharmaceuticals Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Synovace",
+                "manu": "Cachet Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Taurpol AC",
+                "manu": "Taurus Laboratories Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Teep SR (200mg)",
+                "manu": "Rasco Life Sciences",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Tifenac -A",
+                "manu": "Trigenesis Life Science Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Topflam",
+                "manu": "Acme Pharmaceuticals",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Topnac (100mg)",
+                "manu": "Systopic Laboratories Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Topnac (200mg)",
+                "manu": "Systopic Laboratories Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Topnac 100",
+                "manu": "Systopic Laboratories Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Topnac -SR",
+                "manu": "Systopic Laboratories Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Toroxx A",
+                "manu": "Torrent Laboratories Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Trifenac -A",
+                "manu": "Trigenesis Life Science Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Trineon (150mg)",
+                "manu": "Neon Laboratories Limited",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Tylicin",
+                "manu": "Aeon Therapeutics (India) Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Ultinac (100mg)",
+                "manu": "Biovitamins Pvt. Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Ultinac (200mg)",
+                "manu": "Biovitamins Pvt. Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Valdone BCD",
+                "manu": "Cadila Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Valus -A",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Majesta)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Valus-A (100mg)",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Majesta)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Varfen",
+                "manu": "Zota Health Care Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Varfen (100mg)",
+                "manu": "Zota Pharmaceuticals Pvt. Ltd",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Verclof",
+                "manu": "Vertex India Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Verolof",
+                "manu": "Vertex India Healthcare",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Vetory (200mg)",
+                "manu": "Hetero Healthcare Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Vetory SR",
+                "manu": "Hetero Healthcare Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Vorth -A",
+                "manu": "Glenmark Pharmaceuticals Ltd. (Integrace)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Wyace",
+                "manu": "Yacca Pharmaceuticals Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Wyace SR (200mg)",
+                "manu": "Yacca Pharmaceuticals Pvt. Ltd",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Xadoo -100",
+                "manu": "Zydus Cadila Healthcare Ltd. (Liva)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Xtra",
+                "manu": "Elder Pharmaceuticals Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Xtra (150 mg)",
+                "manu": "Elder Pharmaceuticals Pvt. Ltd.",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zacy -SR",
+                "manu": "Comed Chemicals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zerodol",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zerodol (100mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zerodol (200mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zerodol CR (200mg)",
+                "manu": "IPCA Laboratories Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zix",
+                "manu": "Jenburkt Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zix (100mg)",
+                "manu": "Jenburkt Pharmaceuticals Ltd.",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zix -SR",
+                "manu": "Jenburkt Pharmaceuticals Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zix-SR (200mg)",
+                "manu": "Jenburkt Pharmaceuticals Ltd.",
+                "val": "200",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zofen",
+                "manu": "Zota Health Care Pvt. Ltd",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zoflex",
+                "manu": "Nexus Life Sciences (India) Pvt. Ltd.",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zynac",
+                "manu": "Zydus Cadila Healthcare Ltd. (Alidac)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zynac (100mg)",
+                "manu": "Zydus Cadila Healthcare Ltd. (Alidac)",
+                "val": "100",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zynac (150mg)",
+                "manu": "Zydus Cadila Healthcare Ltd. (Alidac)",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zynac (150mg/ ml)",
+                "manu": "Zydus Cadila Healthcare Ltd. (Alidac)",
+                "val": "150",
+                "mes": "mg"
+            },
+            {
+                "brand": "Zynac -SR",
+                "manu": "Zydus Cadila Healthcare Ltd. (Alidac)",
+                "val": 0,
+                "mes": ""
+            },
+            {
+                "brand": "Zynzc",
+                "manu": "Zydus Cadila Healthcare Ltd.",
+                "val": 0,
+                "mes": ""
+            }
+        ],
+        "combLink": "aceclofenac-combination.htm"
+    },
+    {
+        "salt": "Aceclofenac (DR)",
+        "no": "1",
+        "combLink": "aceclofenac-dr-combination.htm"
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Aceclofenac (IR)",
+        "no": "1",
+        "combLink": "aceclofenac-ir-combination.htm"
+    },
+    {
+        "salt": "Aceclofenac (SR)",
+        "no": "1",
+        "combLink": "aceclofenac-sr-combination.htm"
+    },
+    {
+        "salt": "Aceclofenac Sodium",
+        "no": "1",
+        "combLink": "aceclofenac-sodium-combination.htm"
+    },
+    {
+        "salt": "Aceclofenac ß-cyclodextrin",
+        "no": "2",
+        "combLink": "aceclofenac-beta-cyclodextrin-combination.htm"
+    },
+    {
+        "salt": "Acediasulfone",
+        "no": "1",
+        "combLink": "acediasulfone-combination.htm"
+    },
+    {
+        "salt": "Acenocoumarol",
+        "no": "17",
+        "singleLink": [{ "brand": "Acenomac (1mg)", "manu": "Macleods Pharmaceuticals Ltd. (Procare AHT)", "val": "1", "mes": "mg" }, { "brand": "Acenomac (2mg)", "manu": "Macleods Pharmaceuticals Ltd. (Procare AHT)", "val": "2", "mes": "mg" }, { "brand": "Acenomac (3mg)", "manu": "Macleods Pharmaceuticals Ltd. (Procare AHT)", "val": "3", "mes": "mg" }, { "brand": "Acenomac (4mg)", "manu": "Macleods Pharmaceuticals Ltd. (Procare AHT)", "val": "4", "mes": "mg" }, { "brand": "Acitrom (0.5mg)", "manu": "AHPL", "val": "0.5", "mes": "mg" }, { "brand": "Acitrom (1mg)", "manu": "AHPL", "val": "1", "mes": "mg" }, { "brand": "Acitrom (1mg)", "manu": "Nicholas Piramal India Ltd.", "val": "1", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Acitrom (2 mg)", "manu": "Nicholas Piramal India Ltd.", "val": "2", "mes": "mg" }, { "brand": "Acitrom (2mg)", "manu": "AHPL", "val": "2", "mes": "mg" }, { "brand": "Acitrom (3 mg)", "manu": "Abbott Healthcare Pvt Ltd (AHPL)", "val": "3", "mes": "mg" }, { "brand": "Acitrom (3 mg)", "manu": "Piramal Healthcare", "val": "3", "mes": "mg" }, { "brand": "Acitrom (3mg)", "manu": "AHPL", "val": "3", "mes": "mg" }, { "brand": "Acitrom (4 mg)", "manu": "Nicholas Piramal India Ltd.", "val": "4", "mes": "mg" }, { "brand": "Acitrom (4mg)", "manu": "AHPL", "val": "4", "mes": "mg" }, { "brand": "Nistrom", "manu": "Neiss Labs Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Nistrom (2 mg)", "manu": "Neiss Labs Pvt. Ltd.", "val": "2", "mes": "mg" }, { "brand": "Nistrom (4 mg)", "manu": "Neiss Labs Pvt. Ltd.", "val": "4", "mes": "mg" }]
+    },
+    {
+        "salt": "Acetaminophen",
+        "no": "99",
+        "singleLink": [{ "brand": "A -Mol", "manu": "Aan Pharma Pvt Ltd", "val": 0, "mes": "" }, { "brand": "Acimol (500 mg)", "manu": "Allied Chemicals & Pharmaceuticals Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Activate (125 mg)", "manu": "Divine Pharma", "val": "125", "mes": "mg" }, { "brand": "Amidol", "manu": "Shalina Laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Bactomol (500 mg)", "manu": "B.L. Pharma Ltd.", "val": "500", "mes": "mg" }, { "brand": "Bambiti Kid", "manu": "Dey's Medical Stores (Mfg) Ltd", "val": 0, "mes": "" }, { "brand": "Brocin", "manu": "Bhavishya Pharmaceuticals Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Calpol (500mg)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "500", "mes": "mg" }, { "brand": "Calpol (60 ml)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "60", "mes": "ml" }, { "brand": "Cemol KT", "manu": "Inga Laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Centanil", "manu": "Dabur Pharma Limited", "val": 0, "mes": "" }, { "brand": "Cofamol", "manu": "COSME Farma Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "Crocin (500mg)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "500", "mes": "mg" }, { "brand": "Crocin DS", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": 0, "mes": "" }, { "brand": "Crocin Quik", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Dispar (300mg)", "manu": "Rekvina Laboratories Ltd.", "val": "300", "mes": "mg" }, { "brand": "Dispirin", "manu": "Reckitt Benckiser (India) Ltd.", "val": 0, "mes": "" }, { "brand": "Dolo (500 mg)", "manu": "Micro Labs Ltd (India)", "val": "500", "mes": "mg" }, { "brand": "Dolo (60 ml)", "manu": "Micro Labs Ltd (India)", "val": "60", "mes": "ml" }, { "brand": "Dolo (650)", "manu": "Micro Labs Ltd (B & B)", "val": 0, "mes": "" }, { "brand": "Dolod -650", "manu": "Micro Labs Ltd (B & B)", "val": 0, "mes": "" }, { "brand": "Dolomet -500", "manu": "Symet Drugs Ltd.", "val": 0, "mes": "" }, { "brand": "Dolopar -650", "manu": "Micro Nova Pharmaceuticals Ltd", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Emol (500 mg)", "manu": "Elikem Pharmaceuticals Pvt.Ltd.", "val": "500", "mes": "mg" }, { "brand": "Eupyric Kid", "manu": "Euphoric Pharmaceuticals Pvt Ltd", "val": 0, "mes": "" }, { "brand": "Febrimol", "manu": "Serve Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Femol (500 mg)", "manu": "Mediwin Pharmaceuticals", "val": "500", "mes": "mg" }, { "brand": "Himol (120mg)", "manu": "Hindustan Pharmaceuticals", "val": "120", "mes": "mg" }, { "brand": "Ifimol", "manu": "J.B.Chemicals & Pharmaceuticals Ltd.", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Indamol", "manu": "INDAMED PHARMACEUTICALS PVT. LTD.", "val": 0, "mes": "" }, { "brand": "Indamol 650", "manu": "INDAMED PHARMACEUTICALS PVT. LTD.", "val": 0, "mes": "" }, { "brand": "Junimol RDS (250mg)", "manu": "Elder Pharmaceuticals Pvt. Ltd. (EWF)", "val": "250", "mes": "mg" }, { "brand": "Kemol", "manu": "Kentreck Laboratories Pvt Ltd", "val": 0, "mes": "" }, { "brand": "Medomol", "manu": "Medopharm", "val": 0, "mes": "" }, { "brand": "Medomol (650 mg)", "manu": "Medopharm", "val": "650", "mes": "mg" }, { "brand": "MEDOMOL inj", "manu": "Medopharm", "val": 0, "mes": "" }, { "brand": "MOL inj", "manu": "Gufic Limited", "val": 0, "mes": "" }, { "brand": "Oropyrin", "manu": "Ortin Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "Oropyrin Susp.", "manu": "Ortin Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "P - 125 D", "manu": "Apex laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "P - Mol - Kid", "manu": "Talent Laboratories", "val": 0, "mes": "" }, { "brand": "P 125", "manu": "Apex laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "P -125 DT", "manu": "Apex Drug House", "val": 0, "mes": "" }, { "brand": "P -125 DT (500mg)", "manu": "Apex Drug House", "val": "500", "mes": "mg" }, { "brand": "P -250", "manu": "Apex laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "P -500", "manu": "Apex laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Pacimol (60 ml)", "manu": "IPCA Laboratories Ltd.", "val": "60", "mes": "ml" }, { "brand": "Pacimol XP", "manu": "IPCA Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "Panacet", "manu": "Smith Stanistreet Pharmaceuticals Ltd", "val": 0, "mes": "" }, { "brand": "PANACT inj", "manu": "DWD Pharmaceuticals Ltd.", "val": 0, "mes": "" }, { "brand": "Paracetamol", "manu": "Acichem Laboratories", "val": 0, "mes": "" }, { "brand": "Paracetamol", "manu": "Agron Remedies Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Paracetamol Kid 125", "manu": "Acichem Laboratories", "val": 0, "mes": "" }, { "brand": "Paracetamol Oral", "manu": "Ciron Drugs & Pharmaceuticals Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Paracin KT", "manu": "Stadmed Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Paracip (500 mg)", "manu": "Cipla Limited", "val": "500", "mes": "mg" }, { "brand": "Paracip (650 mg)", "manu": "Cipla Limited", "val": "650", "mes": "mg" }, { "brand": "Parador", "manu": "Adore Healthcare", "val": 0, "mes": "" }, { "brand": "Paramax", "manu": "Wintech Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Parasuit", "manu": "Burnet Pharmaceuticals Pvt Ltd", "val": 0, "mes": "" }, { "brand": "Paraz -650", "manu": "Zorex Pharma Pvt.Ltd.", "val": 0, "mes": "" }, { "brand": "Parazine", "manu": "Albert David Limited", "val": 0, "mes": "" }, { "brand": "Parix", "manu": "Active Healthcare", "val": 0, "mes": "" }, { "brand": "PCM inj", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "PCM Susp", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "Pimol", "manu": "Pioneer Pharma", "val": 0, "mes": "" }, { "brand": "Pimol (650 mg)", "manu": "Pioneer Pharma", "val": "650", "mes": "mg" }, { "brand": "Pymol (125 mg)", "manu": "Suzikem Drugs Pvt.Ltd.", "val": "125", "mes": "mg" }, { "brand": "Pyracron Kid", "manu": "Acron Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Pyrexon -650", "manu": "Wockhardt Limited", "val": 0, "mes": "" }, { "brand": "Pyritec Susp", "manu": "Ikon Remedies Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Race", "manu": "Alpic Remedies Ltd.", "val": 0, "mes": "" }, { "brand": "Redimol", "manu": "Reddy Pharmaceuticals Ltd.", "val": 0, "mes": "" }, { "brand": "Regamol", "manu": "BAL Pharma Ltd", "val": 0, "mes": "" }, { "brand": "Sanmol", "manu": "Sanjeevani Bio-Tech (Exim) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Starmol (60 ml)", "manu": "Cadila Pharmaceuticals Ltd.", "val": "60", "mes": "ml" }, { "brand": "T -98 (500mg)", "manu": "Mankind Pharma Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "T -98 Suspension", "manu": "Magnet Labs Pvt Ltd (Mankind)", "val": 0, "mes": "" }, { "brand": "Temfix (500mg)", "manu": "Novartis India Ltd. (Sandoz)", "val": "500", "mes": "mg" }, { "brand": "Temprol", "manu": "Smilax Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Tempros (300 mg)", "manu": "Osho Pharma Pvt. Ltd.", "val": "300", "mes": "mg" }, { "brand": "Tempros (500 mg)", "manu": "Osho Pharma Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Temptal", "manu": "Litaka Pharmaceuticals Limited", "val": 0, "mes": "" }, { "brand": "Temptal 650 T", "manu": "Twilight Mercantiles Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Tyfy (300 mg)", "manu": "Vanguard Therapeutics", "val": "300", "mes": "mg" }, { "brand": "Tyfy DT", "manu": "Vanguard Therapeutics", "val": 0, "mes": "" }, { "brand": "Ultragin", "manu": "Wyeth Limited", "val": 0, "mes": "" }, { "brand": "Ultramol", "manu": "Saga Laboratories", "val": 0, "mes": "" }, { "brand": "Ultramol (650 mg)", "manu": "Saga Laboratories", "val": "650", "mes": "mg" }, { "brand": "Zop Kid", "manu": "Zota Pharmaceuticals Pvt. Ltd", "val": 0, "mes": "" }],
+        "combLink": "acetaminophen-combination.htm"
+    },
+    {
+        "salt": "Acetaminophen and Codeine",
+        "no": "1",
+        "singleLink": [{ "brand": "Narcogin Forte", "manu": "Somatico Laboratories Pvt. Ltd.", "val": 0, "mes": "" }]
+    },
+    {
+        "salt": "Acetate",
+        "no": "1",
+        "combLink": "acetate-combination.htm"
+    },
+    {
+        "salt": "Acetazolamide",
+        "no": "56",
+        "singleLink": [{ "brand": "Aceact (250 mg)", "manu": "KAIZEN DRUGS PVT. LTD.", "val": "250", "mes": "mg" }, { "brand": "Acetamide", "manu": "Micro Labs Ltd (India)", "val": 0, "mes": "" }, { "brand": "Acetamide", "manu": "Micro Labs Ltd. (Vision)", "val": 0, "mes": "" }, { "brand": "Acetamide (250mg)", "manu": "Micro Labs Ltd. (Vision)", "val": "250", "mes": "mg" }, { "brand": "Acetamin", "manu": "Times Drugs & Pharmaceuticals Pvt Ltd.", "val": 0, "mes": "" }, { "brand": "Acetariv", "manu": "EAST AFRICAN(INDIA) REMEDIES PVT.LTD", "val": 0, "mes": "" }, { "brand": "Aceta-SR", "manu": "Mmatrics Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Acetazolamide", "manu": "Healthy Life Pharma Pvt. Ltd", "val": 0, "mes": "" }, { "brand": "ACMox", "manu": "Optica Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "AC-Mox", "manu": "Optica Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Actamid", "manu": "Jawa Pharmaceuticals (INDIA) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Actamide", "manu": "Micro Labs Ltd. (Vision)", "val": 0, "mes": "" }, { "brand": "Actazid", "manu": "Ortin Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "Antilep (100mg)", "manu": "Psycoremedies", "val": "100", "mes": "mg" }, { "brand": "Antilep (200mg)", "manu": "Psycoremedies", "val": "200", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Antilep (200mg)", "manu": "Psycoremedies", "val": "200", "mes": "mg" }, { "brand": "Antilep (300mg)", "manu": "Psycoremedies", "val": "300", "mes": "mg" }, { "brand": "Antilep (400mg)", "manu": "Psycoremedies", "val": "400", "mes": "mg" }, { "brand": "Avva", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "Avva", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "Avva SR", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "Axytex", "manu": "Bionet India Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Carbadac 200 (200mg)", "manu": "Zydus Cadila Healthcare Ltd.", "val": "200", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Diamox", "manu": "Wyeth Limited", "val": 0, "mes": "" }, { "brand": "Diamox (250mg)", "manu": "Wyeth Limited", "val": "250", "mes": "mg" }, { "brand": "Epix (200mg)", "manu": "Baroda Pharmaceutical Pvt Ltd", "val": "200", "mes": "mg" }, { "brand": "Iopar - Sr", "manu": "FDC Limited", "val": 0, "mes": "" }, { "brand": "Iopar -SR", "manu": "FDC Limited (Spectra)", "val": 0, "mes": "" }, { "brand": "Iopar-SR (250mg)", "manu": "FDC Limited (Lumina)", "val": "250", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Mazetol (100mg)", "manu": "AHPL", "val": "100", "mes": "mg" }, { "brand": "Mazetol (100mg/ 5ml)", "manu": "AHPL", "val": "100", "mes": "mg" }, { "brand": "Mazetol (200mg)", "manu": "AHPL", "val": "200", "mes": "mg" }, { "brand": "Mazetol (300mg)", "manu": "AHPL", "val": "300", "mes": "mg" }, { "brand": "Mazetol (400mg)", "manu": "AHPL", "val": "400", "mes": "mg" }, { "brand": "Mazetol Tab (100mg)", "manu": "AHPL", "val": "100", "mes": "mg" }, { "brand": "Mazetol Tab (200mg)", "manu": "AHPL", "val": "200", "mes": "mg" }, { "brand": "Mazetol Tab (400mg)", "manu": "AHPL", "val": "400", "mes": "mg" }, { "brand": "Mezapin (200mg)", "manu": "La Pharmaceuticals", "val": "200", "mes": "mg" }, { "brand": "Mezapin (200mg)", "manu": "La Pharmaceuticals", "val": "200", "mes": "mg" }, { "brand": "Mezapin (400mg)", "manu": "La Pharmaceuticals", "val": "400", "mes": "mg" }, { "brand": "Synomax", "manu": "Syntho Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Synomax", "manu": "Syntho Pharmaceuticals Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Tegrital (100mg)", "manu": "Novartis Pharma", "val": "100", "mes": "mg" }, { "brand": "Tegrital (100mg)", "manu": "Novartis Pharma", "val": "100", "mes": "mg" }, { "brand": "Tegrital (100mg/ 5ml)", "manu": "Novartis Pharma", "val": "100", "mes": "mg" }, { "brand": "Tegrital (200mg)", "manu": "Novartis Pharma", "val": "200", "mes": "mg" }, { "brand": "Tegrital (400mg)", "manu": "Novartis Pharma", "val": "400", "mes": "mg" }, { "brand": "Tegrital-CR (200mg)", "manu": "Novartis Pharma", "val": "200", "mes": "mg" }, { "brand": "Tegrital-CR (300mg)", "manu": "Novartis Pharma", "val": "300", "mes": "mg" }, { "brand": "Tegrital-CR (400mg)", "manu": "Novartis Pharma", "val": "400", "mes": "mg" }, { "brand": "Zac", "manu": "Oscar Remedies Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Zolamide", "manu": "Shalaks Pharmaceuticals Pvt. Ltd.", "val": 0, "mes": "" }]
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Acetic Acid",
+        "no": "1",
+        "combLink": "acetic-acid-combination.htm"
+    },
+    {
+        "salt": "Acetic Acid,Glacial",
+        "no": "1",
+        "combLink": "acetic-acid-glacial-combination.htm"
+    },
+    {
+        "salt": "Acetylcysteine",
+        "no": "49",
+        "singleLink": [{ "brand": "Nacfil (600mg)", "manu": "Fourrts (India) Laboratories Pvt. Ltd. (Specialist)", "val": "600", "mes": "mg" }, { "brand": "Cilol (1000mg)", "manu": "Neon Laboratories Limited", "val": "1000", "mes": "mg" }, { "brand": "Cilol (2000mg)", "manu": "Neon Laboratories Limited", "val": "2000", "mes": "mg" }, { "brand": "Cilol (400mg)", "manu": "Neon Laboratories Limited", "val": "400", "mes": "mg" }, { "brand": "Flumucil (100mg)", "manu": "Elder Pharmaceuticals Pvt. Ltd.", "val": "100", "mes": "mg" }, { "brand": "Flumucil (200mg)", "manu": "Elder Pharmaceuticals Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Flumucil (200mg)", "manu": "Elder Pharmaceuticals Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Flumucil DT (200mg)", "manu": "Elder Pharmaceuticals Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Gluton (600mg)", "manu": "GLUTON-600", "val": "600", "mes": "mg" }, { "brand": "Gluton (600mg)", "manu": "Indo French Labs", "val": "600", "mes": "mg" }, { "brand": "Mucare (1000mg)", "manu": "VHB Lifesciences Inc. (Critical Care)", "val": "1000", "mes": "mg" }, { "brand": "Mucare (200mg)", "manu": "VHB Lifesciences Inc. (Critical Care)", "val": "200", "mes": "mg" }, { "brand": "Mucare (400mg)", "manu": "VHB Lifesciences Inc. (Critical Care)", "val": "400", "mes": "mg" }, { "brand": "Mucinac (20% W/ V)", "manu": "Cipla Limited", "val": 0, "mes": "" }, { "brand": "Mucinac (400mg)", "manu": "Cipla Limited", "val": "400", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Mucinac (600mg)", "manu": "Cipla Limited", "val": "600", "mes": "mg" }, { "brand": "Mucinac (600mg)", "manu": "Cipla Limited", "val": "600", "mes": "mg" }, { "brand": "Mucohelp (1000mg)", "manu": "Neiss Labs Pvt. Ltd.", "val": "1000", "mes": "mg" }, { "brand": "Mucomelt (1000mg)", "manu": "Venus Remedies Ltd.", "val": "1000", "mes": "mg" }, { "brand": "Mucomelt (200mg)", "manu": "Venus Remedies Ltd.", "val": "200", "mes": "mg" }, { "brand": "Mucomelt (400mg)", "manu": "Venus Remedies Ltd.", "val": "400", "mes": "mg" }, { "brand": "Mucomelt (600mg)", "manu": "Venus Remedies Ltd.", "val": "600", "mes": "mg" }, { "brand": "Mucomix (1000mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "1000", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Mucomix (200mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Mucomix (400mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Mucomix (600mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "600", "mes": "mg" }, { "brand": "Mucosys (1000mg)", "manu": "United Biotech Pvt. Ltd.", "val": "1000", "mes": "mg" }, { "brand": "Mucosys (1000mg/ 5mL)", "manu": "United Biotech Pvt. Ltd.", "val": "1000", "mes": "mg" }, { "brand": "Mucosys (400mg)", "manu": "United Biotech Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Mucosys (400mg/ 2mL)", "manu": "United Biotech Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Mucotab (600mg)", "manu": "German Remedies (Aeroforce)", "val": "600", "mes": "mg" }, { "brand": "Mucotyle (1000mg)", "manu": "Shree Ganesh Pharmaceuticals", "val": "1000", "mes": "mg" }, { "brand": "Mucotyle (2000mg)", "manu": "Shree Ganesh Pharmaceuticals", "val": "2000", "mes": "mg" }, { "brand": "Mucotyle (600mg)", "manu": "Shree Ganesh Pharmaceuticals", "val": "600", "mes": "mg" }, { "brand": "Mucyst (1000mg)", "manu": "Neon Laboratories Limited", "val": "1000", "mes": "mg" }, { "brand": "Mucyst (400mg)", "manu": "Neon Laboratories Limited", "val": "400", "mes": "mg" }, { "brand": "Mucyst Inj (800mg)", "manu": "Neon Laboratories Limited", "val": "800", "mes": "mg" }, { "brand": "Mucyst/ Cilol (200mg)", "manu": "Neon Laboratories Limited", "val": "200", "mes": "mg" }, { "brand": "Mucyst/ Cilol (600mg)", "manu": "Neon Laboratories Limited", "val": "600", "mes": "mg" }, { "brand": "Nacel (1000mg)", "manu": "Celon Laboratories Ltd.", "val": "1000", "mes": "mg" }, { "brand": "Nacel (200mg)", "manu": "Celon Laboratories Ltd.", "val": "200", "mes": "mg" }, { "brand": "Nacel (400mg)", "manu": "Celon Laboratories Ltd.", "val": "400", "mes": "mg" }, { "brand": "Nacel (600mg)", "manu": "Celon Laboratories Ltd.", "val": "600", "mes": "mg" }, { "brand": "Nacfil (600mg)", "manu": "Fourrts (India) Laboratories Pvt. Ltd. (Specialist)", "val": "600", "mes": "mg" }],
+        "combLink": "acetylcysteine-combination.htm"
+    },
+    {
+        "salt": "Acetylsalicylic Acid",
+        "no": "1",
+        "combLink": "acetylsalicylic-acid-combination.htm"
+    },
+    {
+        "salt": "Acetysalicylic Acid",
+        "no": "2",
+        "combLink": "acetysalicylic-acid-combination.htm"
+    },
+    {
+        "salt": "Aciclovir",
+        "no": "39",
+        "singleLink": [{ "brand": "Acivir (200mg)", "manu": "Cipla Limited (Xterna)", "val": "200", "mes": "mg" }, { "brand": "Acivir (25mg/ mL)", "manu": "Cipla Limited (Xterna)", "val": "25", "mes": "mg" }, { "brand": "Acivir (400mg)", "manu": "Cipla Limited (Xterna)", "val": "400", "mes": "mg" }, { "brand": "Acivir (800mg)", "manu": "Cipla Limited (Xterna)", "val": "800", "mes": "mg" }, { "brand": "Acivir Ointment (3% w/ w)", "manu": "Cipla Limited", "val": 0, "mes": "" }, { "brand": "Cyclovir", "manu": "Zydus Cadila Healthcare Ltd.", "val": 0, "mes": "" }, { "brand": "Cyclovir (200mg)", "manu": "Zydus Cadila Healthcare Ltd.", "val": "200", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Cyclovir Ointment (3%)", "manu": "Zydus Cadila Healthcare Ltd.", "val": 0, "mes": "" }, { "brand": "Ocuvir (200mg)", "manu": "FDC Limited (Lumina)", "val": "200", "mes": "mg" }, { "brand": "Ocuvir (400mg)", "manu": "FDC Limited (Lumina)", "val": "400", "mes": "mg" }, { "brand": "Ocuvir (800mg)", "manu": "FDC Limited (Lumina)", "val": "800", "mes": "mg" }, { "brand": "Ocuvir Ointment (3% w/ v)", "manu": "FDC Limited (Lumina)", "val": 0, "mes": "" }, { "brand": "Ocuvir SR (1200mg)", "manu": "FDC Limited (Lumina)", "val": "1200", "mes": "mg" }, { "brand": "Trikase (200mg)", "manu": "East India Pharmaceutical Works Ltd", "val": "200", "mes": "mg" }, { "brand": "Trikase (800mg)", "manu": "East India Pharmaceutical Works Ltd", "val": "800", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Viroderm", "manu": "Emcure Pharmaceuticals Ltd.", "val": 0, "mes": "" }, { "brand": "Zovibact (200mg)", "manu": "Innovative Pharmaceuticals", "val": "200", "mes": "mg" }, { "brand": "Zovibact (400mg)", "manu": "Innovative Pharmaceuticals", "val": "400", "mes": "mg" }, { "brand": "Zovibact (500mg)", "manu": "Innovative Pharmaceuticals", "val": "500", "mes": "mg" }, { "brand": "Zovibact (800mg)", "manu": "Innovative Pharmaceuticals", "val": "800", "mes": "mg" }, { "brand": "Zovidac (200mg)", "manu": "Ikon Remedies Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Zovidac (400mg)", "manu": "Ikon Remedies Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Zovidac (500mg)", "manu": "Ikon Remedies Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Zovidac (800mg)", "manu": "Ikon Remedies Pvt. Ltd.", "val": "800", "mes": "mg" }, { "brand": "Zovir (200mg)", "manu": "East West Pharma", "val": "200", "mes": "mg" }, { "brand": "Zovir (400mg)", "manu": "East West Pharma", "val": "400", "mes": "mg" }, { "brand": "Zovir (800mg)", "manu": "East West Pharma", "val": "800", "mes": "mg" }, { "brand": "Zovirax (200mg)", "manu": "Glaxo SmithKline Pharmaceuticals Ltd.", "val": "200", "mes": "mg" }, { "brand": "Zovirax (250mg)", "manu": "Glaxo SmithKline Pharmaceuticals Ltd.", "val": "250", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Zovirax (400mg)", "manu": "Glaxo SmithKline Pharmaceuticals Ltd.", "val": "400", "mes": "mg" }, { "brand": "Zovirax (400mg/ 5mL)", "manu": "Glaxo SmithKline Pharmaceuticals Ltd.", "val": "400", "mes": "mg" }, { "brand": "Zovirax (800mg)", "manu": "Glaxo SmithKline Pharmaceuticals Ltd.", "val": "800", "mes": "mg" }, { "brand": "Zovirax Opthalmic Ointment (3%)", "manu": "Glaxo SmithKline Pharmaceuticals Ltd.", "val": 0, "mes": "" }],
+        "combLink": "aciclovir-combination.htm"
+    },
+    {
+        "salt": "Acitretin",
+        "no": "14",
+        "singleLink": [{ "brand": "Aceret", "manu": "Glenmark Pharmaceuticals Ltd. (Gracewell SPL)", "val": 0, "mes": "" }, { "brand": "Aceret", "manu": "Glenmark Pharmaceuticals Ltd. (Gracewell SPL)", "val": 0, "mes": "" }, { "brand": "Aceret", "manu": "Glenmark Pharmaceuticals Ltd. (Gracewell)", "val": 0, "mes": "" }, { "brand": "Aceret (10 mg)", "manu": "Glenmark Pharmaceuticals Ltd.", "val": "10", "mes": "mg" }, { "brand": "Aceret (25 mg)", "manu": "Glenmark Pharmaceuticals Ltd. (Gracewell)", "val": "25", "mes": "mg" }, { "brand": "Acetec", "manu": "Dr. Reddy's Laboratories", "val": 0, "mes": "" }, { "brand": "Acetec", "manu": "Dr. Reddy's Laboratories", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Acetec", "manu": "Dr. Reddy's Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "Acetec (25 mg)", "manu": "Dr. Reddy's Laboratories Ltd.", "val": "25", "mes": "mg" }, { "brand": "Acitrin", "manu": "IPCA Laboratories Ltd.", "val": 0, "mes": "" }, { "brand": "Acitrin (25 mg)", "manu": "IPCA Laboratories Ltd.", "val": "25", "mes": "mg" }, { "brand": "Acrotac (10 mg)", "manu": "Ranbaxy Laboratories Ltd. (Croslands)", "val": "10", "mes": "mg" }, { "brand": "Acrotac (25 mg)", "manu": "Ranbaxy Laboratories Ltd. (Croslands)", "val": "25", "mes": "mg" }, { "brand": "Zoratame (25 mg)", "manu": "Cipla Limited", "val": "25", "mes": "mg" }]
+    },
+    {
+        "salt": "Aclarubicin",
+        "no": "1",
+        "singleLink": [{ "brand": "Klasinomycin", "manu": "Khandelwal Laboratories Pvt. Ltd.", "val": 0, "mes": "" }]
+    },
+    {
+        "salt": "Acrivastine",
+        "no": "2",
+        "combLink": "acrivastine-combination.htm"
+    },
+    {
+        "salt": "Activated Charcoal",
+        "no": "1",
+        "combLink": "activated-charcoal-combination.htm"
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Activated Dimethicone",
+        "no": "16",
+        "combLink": "activated-dimethicone-combination.htm"
+    },
+    {
+        "salt": "Activated Polymethylsiloxane",
+        "no": "2",
+        "combLink": "activated-polymethylsiloxane-combination.htm"
+    },
+    {
+        "salt": "Acyclovir",
+        "no": "148",
+        "singleLink": [{ "brand": "Accrivir (200 mg)", "manu": "Sivling Technologies Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Aciherpin (200 mg)", "manu": "Agio Pharmaceuticals Ltd.", "val": "200", "mes": "mg" }, { "brand": "Aciherpin (400 mg)", "manu": "Agio Pharmaceuticals Ltd.", "val": "400", "mes": "mg" }, { "brand": "Aciherpin (800 mg)", "manu": "Agio Pharmaceuticals Ltd.", "val": "800", "mes": "mg" }, { "brand": "Aciherpin Crm (5 gm)", "manu": "Agio Pharmaceuticals Ltd.", "val": "5", "mes": "g" }, { "brand": "Acirax (200 mg)", "manu": "Synmedic Laboratories", "val": "200", "mes": "mg" }, { "brand": "Aciv (200 mg)", "manu": "Zee Laboratories Ltd.", "val": "200", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Aciv (400 mg)", "manu": "Zee Laboratories Ltd.", "val": "400", "mes": "mg" }, { "brand": "Aciv (800 mg)", "manu": "Zee Laboratories Ltd.", "val": "800", "mes": "mg" }, { "brand": "Acivir (25 mg)", "manu": "Cipla Limited", "val": "25", "mes": "mg" }, { "brand": "Acivir (Eye)", "manu": "Cipla Limited", "val": 0, "mes": "" }, { "brand": "Acivir (Skin) (5 gm)", "manu": "Cipla Limited", "val": "Skin)", "mes": "g" }, { "brand": "Acivir DT (200 mg)", "manu": "Cipla Limited", "val": "200", "mes": "mg" }, { "brand": "Acivir DT (400 mg)", "manu": "Cipla Limited", "val": "400", "mes": "mg" }, { "brand": "Acivir DT (800 mg)", "manu": "Cipla Limited", "val": "800", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Acloriv (Skin) (5 gm)", "manu": "EAST AFRICAN(INDIA) REMEDIES PVT.LTD", "val": "Skin)", "mes": "g" }, { "brand": "Acloriv DT (200 mg)", "manu": "EAST AFRICAN(INDIA) REMEDIES PVT.LTD", "val": "200", "mes": "mg" }, { "brand": "Acloriv DT (400 mg)", "manu": "EAST AFRICAN(INDIA) REMEDIES PVT.LTD", "val": "400", "mes": "mg" }, { "brand": "Aclovir (200 mg)", "manu": "Bhavishya Pharmaceuticals Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Aclovir DT (200 mg)", "manu": "Ind-Swift Limited", "val": "200", "mes": "mg" }, { "brand": "Acv (200 mg)", "manu": "Geo Pharma Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Acv (250 mg)", "manu": "Geo Pharma Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Acv (400 mg)", "manu": "Geo Pharma Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Acv (500 mg)", "manu": "Geo Pharma Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Acvirall (400 mg)", "manu": "Finecure Pharmaceuticals Ltd.", "val": "400", "mes": "mg" }, { "brand": "Acvirall D (200 mg)", "manu": "Finecure Pharmaceuticals Ltd.", "val": "200", "mes": "mg" }, { "brand": "Acvirall Dis (200 mg)", "manu": "Terrace Pharmaceuticals Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Acvirall Dis (400 mg)", "manu": "Terrace Pharmaceuticals Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Acvirax (800 mg)", "manu": "Novus Life Sciences Pvt. Ltd.", "val": "800", "mes": "mg" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Acvirax DT (400 mg)", "manu": "Novus Life Sciences Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Acyclor (200 mg)", "manu": "Talent Laboratories", "val": "200", "mes": "mg" }, { "brand": "Acyclovir (250 mg)", "manu": "Chandra Bhagat Pharma Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Acyclovir (500 mg)", "manu": "Chandra Bhagat Pharma Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Acylab (Skin) (5 gm)", "manu": "Laborate Pharmaceuticals India Ltd. (Multicure)", "val": "Skin)", "mes": "g" }, { "brand": "Alovir (200 mg)", "manu": "Adley Formulation", "val": "200", "mes": "mg" }, { "brand": "Alovir (400 mg)", "manu": "Adley Formulation", "val": "400", "mes": "mg" }, { "brand": "Alovir (800 mg)", "manu": "Adley Formulation", "val": "800", "mes": "mg" }, { "brand": "Avir DT (400 mg)", "manu": "Grefith Life Sciences", "val": "400", "mes": "mg" }, { "brand": "Avir DT (800 mg)", "manu": "Grefith Life Sciences", "val": "800", "mes": "mg" }, { "brand": "Axovir (200 mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Axovir (250 mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Axovir (400 mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Axovir (500 mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Axovir (800 mg)", "manu": "Samarth Pharma Pvt. Ltd.", "val": "800", "mes": "mg" }, { "brand": "Cevirin (250 mg)", "manu": "United Biotech Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Civir DT (400 mg)", "manu": "Biomax Biotechnics Pvt Ltd", "val": "400", "mes": "mg" }, { "brand": "Civir DT (800 mg)", "manu": "Biomax Biotechnics Pvt Ltd", "val": "800", "mes": "mg" }, { "brand": "Cloviderm (Skin) (5 gm)", "manu": "Sandoz Private Ltd.", "val": "Skin)", "mes": "g" }, { "brand": "Clovir (5 gm)", "manu": "Optho Remedies Pvt. Ltd.", "val": "5", "mes": "g" }, { "brand": "Clovirax (Skin) (5 gm)", "manu": "Maneesh Pharmaceuticals Ltd", "val": "Skin)", "mes": "g" }, { "brand": "Clovirax DT (200 mg)", "manu": "Maneesh Pharmaceuticals Ltd", "val": "200", "mes": "mg" }, { "brand": "Clovirax DT (400 mg)", "manu": "Maneesh Pharmaceuticals Ltd", "val": "400", "mes": "mg" }, { "brand": "Clovirax DT (800 mg)", "manu": "Maneesh Pharmaceuticals Ltd", "val": "800", "mes": "mg" }, { "brand": "Clyvir (200 mg)", "manu": "Welbe Life Sciences", "val": "200", "mes": "mg" }, { "brand": "Clyvir (800 mg)", "manu": "Welbe Life Sciences", "val": "800", "mes": "mg" }, { "brand": "Cutivir (800 mg)", "manu": "Cutigen Incoporation", "val": "800", "mes": "mg" }, { "brand": "Cycloex (800 mg)", "manu": "Exmed Healthcare", "val": "800", "mes": "mg" }, { "brand": "Cyclopiz (200 mg)", "manu": "Gary Pharmaceuticals P Ltd.", "val": "200", "mes": "mg" }, { "brand": "Cyclopiz (400 mg)", "manu": "Gary Pharmaceuticals P Ltd.", "val": "400", "mes": "mg" }, { "brand": "Cyclopiz (800 mg)", "manu": "Gary Pharmaceuticals P Ltd.", "val": "800", "mes": "mg" }, { "brand": "Cyclopiz (Skin) (5 gm)", "manu": "Gary Pharmaceuticals P Ltd.", "val": "Skin)", "mes": "g" }, { "brand": "Cyclovir (200 mg)", "manu": "Zydus Cadila Healthcare Ltd.", "val": "200", "mes": "mg" }, { "brand": "Cyclovir (Eye)", "manu": "Zydus Cadila Healthcare Ltd.", "val": 0, "mes": "" }, { "brand": "Cyclovir (Skin) (5 gm)", "manu": "Zydus Cadila Healthcare Ltd.", "val": "Skin)", "mes": "g" }, { "brand": "Docvir DT (200 mg)", "manu": "Swiss Pharma Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Docvir DT (400 mg)", "manu": "Swiss Pharma Pvt. Ltd.", "val": "400", "mes": "mg" }, { "brand": "Docvir DT (800 mg)", "manu": "Swiss Pharma Pvt. Ltd.", "val": "800", "mes": "mg" }, { "brand": "Herpe (200 mg)", "manu": "Torrent Laboratories Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Herperax (200 mg)", "manu": "Micro Labs Ltd (Gratia)", "val": "200", "mes": "mg" }, { "brand": "Herperax (400 mg)", "manu": "Micro Labs Ltd (Gratia)", "val": "400", "mes": "mg" }, { "brand": "Herperax (800 mg)", "manu": "Micro Labs Ltd (Gratia)", "val": "800", "mes": "mg" }, { "brand": "Herperax (Eye)", "manu": "Micro Labs Ltd (Gratia)", "val": 0, "mes": "" }, { "brand": "Herperax (Skin) (5 gm)", "manu": "Micro Labs Ltd (Gratia)", "val": "Skin)", "mes": "g" }, { "brand": "Herpex (200 mg)", "manu": "Torrent Pharmaceuticals Ltd.", "val": "200", "mes": "mg" }, { "brand": "Herpex (Skin) (5 gm)", "manu": "Torrent Pharmaceuticals Ltd.", "val": "Skin)", "mes": "g" }, { "brand": "Herpex DT (800 mg)", "manu": "Torrent Pharmaceuticals Ltd.", "val": "800", "mes": "mg" }, { "brand": "Herporax (Skin) (5 gm)", "manu": "Biocare Remedies Pvt. Ltd.", "val": "Skin)", "mes": "g" }, { "brand": "Herpovir (200 mg)", "manu": "Pharma Corp Inc.", "val": "200", "mes": "mg" }, { "brand": "Herpovir (400 mg)", "manu": "Pharma Corp Inc.", "val": "400", "mes": "mg" }, { "brand": "Herzovir (250 mg)", "manu": "Chandra Bhagat Pharma Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Herzovir (500 mg)", "manu": "Chandra Bhagat Pharma Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Kayvir (200 mg)", "manu": "Solitaire Pharmacia Pvt. Ltd. (Euro Biotech)", "val": "200", "mes": "mg" }, { "brand": "Kayvir (800 mg)", "manu": "Solitaire Pharmacia Pvt. Ltd. (Euro Biotech)", "val": "800", "mes": "mg" }, { "brand": "Klovir (800 mg)", "manu": "Klokter Life Sciences", "val": "800", "mes": "mg" }, { "brand": "Lovir (200 mg)", "manu": "Eli Lilly and Company (India)", "val": "200", "mes": "mg" }, { "brand": "Lovir (250 mg)", "manu": "Chandra Bhagat Pharma Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Lovir (400 mg)", "manu": "Eli Lilly and Company (India)", "val": "400", "mes": "mg" }, { "brand": "Lovir (800 mg)", "manu": "Eli Lilly and Company (India)", "val": "800", "mes": "mg" }, { "brand": "Lyrovir (200 mg)", "manu": "Lyra Laboratories Pvt Ltd", "val": "200", "mes": "mg" }, { "brand": "Lyrovir (Skin) (5 gm)", "manu": "Lyra Laboratories Pvt Ltd", "val": "Skin)", "mes": "g" }, { "brand": "Nisivir (500 mg)", "manu": "Neiss Labs Pvt. Ltd.", "val": "500", "mes": "mg" }, { "brand": "Ocurax (200 mg)", "manu": "IPCA Laboratories Ltd. (Innova)", "val": "200", "mes": "mg" }, { "brand": "Ocurax (400 mg)", "manu": "IPCA Laboratories Ltd. (Innova)", "val": "400", "mes": "mg" }, { "brand": "Ocurax (800 mg)", "manu": "IPCA Laboratories Ltd. (Innova)", "val": "800", "mes": "mg" }, { "brand": "Ocuvir (800 mg)", "manu": "FDC Limited", "val": "800", "mes": "mg" }, { "brand": "Ocuvir (Eye) (5 gm)", "manu": "FDC Limited", "val": "Eye)", "mes": "g" }, { "brand": "Ocuvir (Skin) (5 gm)", "manu": "FDC Limited", "val": "Skin)", "mes": "g" }, { "brand": "Ocuvir DT (200 mg)", "manu": "FDC Limited", "val": "200", "mes": "mg" }, { "brand": "Ocuvir DT (400 mg)", "manu": "FDC Limited", "val": "400", "mes": "mg" }, { "brand": "Okavir (Skin) (5 gm)", "manu": "Cipla Limited", "val": "Skin)", "mes": "g" }, { "brand": "Okavir DT (200 mg)", "manu": "Cipla Limited", "val": "200", "mes": "mg" }, { "brand": "Okavir DT (400mg)", "manu": "Cipla Limited", "val": "400", "mes": "mg" }, { "brand": "Ophtrhovir (Eye)", "manu": "Sunways (India) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Optiviral (200 mg)", "manu": "Entod Pharmaceuticals Ltd.", "val": "200", "mes": "mg" }, { "brand": "Optiviral (Eye)", "manu": "Entod Pharmaceuticals Ltd.", "val": 0, "mes": "" }, { "brand": "Oveer", "manu": "Alpic Remedies Ltd.", "val": 0, "mes": "" }, { "brand": "Ovir (250 mg)", "manu": "Osper Pharmaceutics Pvt. Ltd.", "val": "250", "mes": "mg" }, { "brand": "Psyvir (Skin) (5 gm)", "manu": "Psyco Remedies", "val": "Skin)", "mes": "g" }, { "brand": "Ridoherp", "manu": "RPG Life Sciences Ltd", "val": 0, "mes": "" }, { "brand": "Ridoherp (Skin) (5 gm)", "manu": "RPG Life Sciences Ltd", "val": "Skin)", "mes": "g" }, { "brand": "Rivol", "manu": "Dial Pharmaceuticals Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Rivol (800 mg)", "manu": "Dial Pharmaceuticals Pvt. Ltd.", "val": "800", "mes": "mg" }, { "brand": "Rovir", "manu": "Royal Labs", "val": 0, "mes": "" }, { "brand": "Rovir (800 mg)", "manu": "Royal Labs", "val": "800", "mes": "mg" }, { "brand": "Rowapil", "manu": "Rowan Bioceuticals Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Setuvir", "manu": "Sunways (India) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Spaclovir (200 mg)", "manu": "APS Biotech Pvt. Ltd.", "val": "200", "mes": "mg" }, { "brand": "Trikase (200 mg)", "manu": "East India Pharmaceutical Works Ltd", "val": "200", "mes": "mg" }, { "brand": "Trikase (800 mg)", "manu": "East India Pharmaceutical Works Ltd", "val": "800", "mes": "mg" }, { "brand": "Trikase (Skin) (10 gm)", "manu": "East India Pharmaceutical Works Ltd", "val": "Skin)", "mes": "g" }, { "brand": "Trikase (Skin) (5 gm)", "manu": "East India Pharmaceutical Works Ltd", "val": "Skin)", "mes": "g" }, { "brand": "Vir Inj (250 mg)", "manu": "Troikaa Pharmaceuticals Ltd.", "val": "250", "mes": "mg" }, { "brand": "Vira (Eye)", "manu": "Pharmtak Ophthalmics (I) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Virclo", "manu": "Shinto Organics (P) Ltd.", "val": 0, "mes": "" }, { "brand": "Virclo", "manu": "Tosc International Pvt Ltd.", "val": 0, "mes": "" }, { "brand": "Virclo (800 mg)", "manu": "Shinto Organics (P) Ltd.", "val": "800", "mes": "mg" }, { "brand": "Virex", "manu": "BDH Industries Ltd.", "val": 0, "mes": "" }, { "brand": "Virex (200 mg)", "manu": "BDH Industries Ltd.", "val": "200", "mes": "mg" }, { "brand": "Viroderm (Eye)", "manu": "Emcure Pharmaceuticals Ltd.", "val": 0, "mes": "" }, { "brand": "Virucid (Eye)", "manu": "Klar Sehen Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Vivorax (Skin) (5 gm)", "manu": "Cadila Pharmaceuticals Ltd. (Le Sante)", "val": "Skin)", "mes": "g" }, { "brand": "Zovir (200 mg)", "manu": "East West Pharma", "val": "200", "mes": "mg" }, { "brand": "Zovir (400 mg)", "manu": "East West Pharma", "val": "400", "mes": "mg" }, { "brand": "Zovir (800 mg)", "manu": "East West Pharma", "val": "800", "mes": "mg" }, { "brand": "Zovirax", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": 0, "mes": "" }, { "brand": "Zovirax (100ml)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "100", "mes": "ml" }, { "brand": "Zovirax (200 mg)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "200", "mes": "mg" }, { "brand": "Zovirax (400 mg)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "400", "mes": "mg" }, { "brand": "Zovirax (800 mg)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": "800", "mes": "mg" }, { "brand": "Zovirax Opthalmic (Eye)", "manu": "GlaxoSmithKline Pharmaceuticals Ltd", "val": 0, "mes": "" }, { "brand": "Zoylex (250 mg)", "manu": "Neon Laboratories Limited", "val": "250", "mes": "mg" }, { "brand": "Zoylex (500 mg)", "manu": "Neon Laboratories Limited", "val": "500", "mes": "mg" }, { "brand": "Zoylex (Skin) (5 gm)", "manu": "VHB Lifesciences Inc.", "val": "Skin)", "mes": "g" }, { "brand": "Zoylex DT (200mg)", "manu": "VHB Lifesciences Inc. (Cronus)", "val": "200", "mes": "mg" }, { "brand": "Zoylex -DT (400mg)", "manu": "VHB Lifesciences Inc. (Cronus)", "val": "400", "mes": "mg" }, { "brand": "Zoylex -DT (800 mg)", "manu": "VHB Lifesciences Inc. (Cronus)", "val": "800", "mes": "mg" }, { "brand": "Zoylex inj (250 mg)", "manu": "VHB Lifesciences Inc. (Critical Care)", "val": "250", "mes": "mg" }, { "brand": "Zoylex inj (500 mg)", "manu": "VHB Lifesciences Inc. (Critical Care)", "val": "500", "mes": "mg" }]
+    },
+    {
+        "salt": "Adapalene",
+        "no": "41",
+        "singleLink": [{ "brand": "Aclene Gel", "manu": "Cipla Limited", "val": 0, "mes": "" }, { "brand": "Acneril", "manu": "Sun Pharmaceuticals Industries Ltd.", "val": 0, "mes": "" }, { "brand": "Adaferin", "manu": "Galderma India Pvt.Ltd.", "val": 0, "mes": "" }, { "brand": "Adaferin", "manu": "Galderma India Pvt.Ltd.", "val": 0, "mes": "" }, { "brand": "Adapen", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "Adapen", "manu": "Intas Pharmaceutical Ltd.", "val": 0, "mes": "" }, { "brand": "Adaple Gel", "manu": "Wallace Pharmaceuticals Ltd. (Lyfestyle)", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Adaret (15 gm)", "manu": "Cosme Healthcare (CFL Pharmaceuticals Ltd)", "val": "15", "mes": "g" }, { "brand": "Adaret (Skin) (15gm)", "manu": "Cosme Healthcare (CFL Pharmaceuticals Ltd)", "val": "Skin)", "mes": "g" }, { "brand": "Adiff", "manu": "IPCA Laboratories Ltd. (Innova)", "val": 0, "mes": "" }, { "brand": "Adina", "manu": "Canbro Healthcare", "val": 0, "mes": "" }, { "brand": "Aditop", "manu": "Dermocare Laboratories(guj) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Aditop C", "manu": "Dermocare Laboratories(guj) Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Adlene-AD", "manu": "Psycoremedies", "val": 0, "mes": "" }, { "brand": "Alangel", "manu": "Systopic Laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Alangel", "manu": "Systopic Laboratories Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Alene Gel", "manu": "Cadila Pharmaceuticals Ltd. (Le Sante)", "val": 0, "mes": "" }, { "brand": "Apalene", "manu": "Elder Pharmaceuticals Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Apgel (Skin) (10gm)", "manu": "H & Care Pharmaceutical Enterprises", "val": "Skin)", "mes": "g" }, { "brand": "Daple", "manu": "Maxamus International", "val": 0, "mes": "" }, { "brand": "DEE", "manu": "Nidus Pharma Pvt. Ltd.", "val": 0, "mes": "" }, { "brand": "Deriva MS", "manu": "Glenmark Pharmaceuticals Ltd. (Gracewell)", "val": 0, "mes": "" }, { "brand": "Deriva-MS", "manu": "Glenmark Pharmaceuticals Ltd. (Gracewell)", "val": 0, "mes": "" }, { "brand": "", "manu": "", "val": 0, "mes": "" }, { "brand": "Edplin", "manu": "Eclipser Pharmaceuticals", "val": 0, "mes": "" }, { "brand": "Medapine (Skin) (15gm)", "manu": "Ranbaxy Laboratories Ltd. (Croslands)", "val": "Skin)", "mes": "g" }, { "brand": "Rozac", "manu": "Ind-Swift Limited", "val": 0, "mes": "" }, { "brand": "Soflene", "manu": "Mefro Dermacare", "val": 0, "mes": "" }, { "brand": "Vandep", "manu": "Articon Labs", "val": 0, "mes": "" }],
+        "combLink": "adapalene-combination.htm"
+    },
+    {
+        "salt": "Adefovir Dipivoxil",
+        "no": "4",
+        "singleLink": "adefovir-dipivoxil.htm",
+        "combLink": "adefovir-dipivoxil-combination.htm"
+    },
+    {
+        "salt": "Ademetionine",
+        "no": "1",
+        "combLink": "ademetionine-combination.htm"
+    },
+    {
+        "salt": "Adenosine",
+        "no": "10",
+        "singleLink": "adenosine.htm"
+    },
+    {
+        "salt": "Adenosylcobalamin",
+        "no": "7",
+        "combLink": "adenosylcobalamin-combination.htm"
+    },
+    {
+        "salt": "Adrenaline",
+        "no": "2",
+        "combLink": "adrenaline-combination.htm"
+    },
+    {
+        "salt": "Adrenochrome monosemicarbazone / Carbazochrome",
+        "no": "41",
+        "singleLink": "adrenochrome-monosemicarbazone.htm",
+        "combLink": "adrenochrome-monosemicarbazone-combination.htm"
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Al silicate",
+        "no": "1",
+        "combLink": "al-silicate-combination.htm"
+    },
+    {
+        "salt": "ALA",
+        "no": "1",
+        "combLink": "ala-combination.htm"
+    },
+    {
+        "salt": "Alanine",
+        "no": "1",
+        "combLink": "alanine-combination.htm"
+    },
+    {
+        "salt": "Albendazole",
+        "no": "723",
+        "singleLink": "albendazole.htm",
+        "combLink": "albendazole-combination.htm"
+    },
+    {
+        "salt": "Albumin Human",
+        "no": "20",
+        "singleLink": "human-albumin.htm",
+        "combLink": "human-albumin-combination.htm"
+    },
+    {
+        "salt": "Albuterol",
+        "no": "5",
+        "singleLink": "albuterol.htm"
+    },
+    {
+        "salt": "Albuterol (Salbutamol)",
+        "no": "209",
+        "singleLink": "albuterol.htm",
+        "combLink": "albuterol-combination.htm"
+    },
+    {
+        "salt": "Albuterol Sulphate",
+        "no": "1",
+        "combLink": "albuterol-sulphate-combination.htm"
+    },
+    {
+        "salt": "Alcohol",
+        "no": "20",
+        "combLink": "alcohol-combination.htm"
+    },
+    {
+        "salt": "Alcohol 95%",
+        "no": "1",
+        "combLink": "alcohol-95percent-combination.htm"
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Alendronate",
+        "no": "21",
+        "singleLink": "alendronate.htm"
+    },
+    {
+        "salt": "Alendronic Acid",
+        "no": "9",
+        "singleLink": "alendronic-acid.htm"
+    },
+    {
+        "salt": "Alfacalcidol",
+        "no": "47",
+        "singleLink": "alfacalcidol.htm",
+        "combLink": "alfacalcidol-combination.htm"
+    },
+    {
+        "salt": "Alfuzosin",
+        "no": "16",
+        "singleLink": "alfuzosin.htm",
+        "combLink": "alfuzosin-combination.htm"
+    },
+    {
+        "salt": "Alfuzosin (ER)",
+        "no": "1",
+        "combLink": "alfuzosin-er-combination.htm"
+    },
+    {
+        "salt": "Alginic acid",
+        "no": "5",
+        "combLink": "alginic-acid-combination.htm"
+    },
+    {
+        "salt": "a-linolenic acid",
+        "no": "3",
+        "combLink": "a-linolenic-acid-combination.htm"
+    },
+    {
+        "salt": "Aliskiren",
+        "no": "2",
+        "singleLink": "aliskiren.htm"
+    },
+    {
+        "salt": "Allantoin",
+        "no": "30",
+        "singleLink": "allantoin.htm",
+        "combLink": "allantoin-combination.htm"
+    },
+    {
+        "salt": "Allopurinol",
+        "no": "90",
+        "singleLink": "allopurinol.htm"
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Allylestrenol",
+        "no": "106",
+        "singleLink": "allylestrenol.htm"
+    },
+    {
+        "salt": "Aloe",
+        "no": "1",
+        "combLink": "aloe-combination.htm"
+    },
+    {
+        "salt": "Aloe vera",
+        "no": "36",
+        "singleLink": "aloe-vera.htm",
+        "combLink": "aloe-vera-combination.htm"
+    },
+    {
+        "salt": "Aloe vera extract",
+        "no": "13",
+        "singleLink": "aloe-vera-extract.htm",
+        "combLink": "aloe-vera-extract-combination.htm"
+    },
+    {
+        "salt": "Aloe Vera Gel",
+        "no": "5",
+        "singleLink": "aloe-vera-gel.htm",
+        "combLink": "aloe-vera-gel-combination.htm"
+    },
+    {
+        "salt": "Aloes",
+        "no": "1",
+        "singleLink": "aloes.htm"
+    },
+    {
+        "salt": "alpha hederin",
+        "no": "1",
+        "combLink": "alpha-hederin-combination.htm"
+    },
+    {
+        "salt": "Alpha hydroxy acids",
+        "no": "1",
+        "singleLink": "alpha-hydroxy-acids.htm"
+    },
+    {
+        "salt": "Alpha Ketoanalogue",
+        "no": "1",
+        "singleLink": "alpha-ketoanalogue.htm"
+    },
+    {
+        "salt": "Alpha Ketoanalogue Tablets",
+        "no": "1",
+        "singleLink": "alpha-ketoanalogue-tablets.htm"
+    },
+    {
+        "salt": "",
+        "no": ""
+    },
+    {
+        "salt": "Alpha linolenic acid",
+        "no": "1",
+        "combLink": "alpha-linolenic-acid-combination.htm"
+    },
+    {
+        "salt": "Alpha linolennic acid",
+        "no": "1",
+        "singleLink": "alpha-linolennic-acid.htm"
+    },
+    {
+        "salt": "Alpha Lipoic Acid",
+        "no": "142",
+        "singleLink": "alpha-lipoic-acid.htm",
+        "combLink": "alpha-lipoic-acid-combination.htm"
+    },
+    {
+        "salt": "Alpha Tocophenyl Acetate",
+        "no": "6",
+        "combLink": "alpha-tocophenyl-acetate-combination.htm"
+    },
+    {
+        "salt": "Alpha Tocopherol",
+        "no": "3",
+        "combLink": "a-tocopherol-combination.htm"
+    },
+    {
+        "salt": "Alpha Tocopherol",
+        "no": "3",
+        "combLink": "alpha-tocopherol-combination.htm"
+    },
+    {
+        "salt": "Alpha tocopherol acetate",
+        "no": "1",
+        "combLink": "alpha-tocopherol-acetate-combination.htm"
+    },
+    {
+        "salt": "Alpha tocopherol palmitate",
+        "no": "1",
+        "combLink": "alpha-tocopherol-palmitate-combination.htm"
+    },
+    {
+        "salt": "Alpha Tocopheryl Acetate",
+        "no": "2",
+        "combLink": "alpha-tocopheryl-acetate-combination.htm"
+    },
+    {
+        "salt": "Alpha-chain specific antisera to Human lg A",
+        "no": "1",
+        "combLink": "alpha-chain-specific-antisera-to-human-lg-a-combination.htm"
+    },
+    {
+        "salt": "Alpha-chain specific antisera to Human lg G",
+        "no": "1",
+        "combLink": "alpha-chain-specific-antisera-to-human-lg-g-combination.htm"
+    },
+    {
+        "salt": "Alphachymotrypsin",
+        "no": "3",
+        "singleLink": "alphachymotrypsin.htm"
+    },
+    {
+        "salt": "Alprazolam",
+        "no": "976",
+        "singleLink": "alprazolam.htm",
+        "combLink": "alprazolam-combination.htm"
+    },
+    {
+        "salt": "Alprazolam SR",
+        "no": "1",
+        "combLink": "alprazolam-sr-combination.htm"
+    },
+    {
+        "salt": "Alprostadil",
+        "no": "3",
+        "singleLink": "alprostadil.htm"
+    },
+    {
+        "salt": "Alum",
+        "no": "4",
+        "singleLink": "alum.htm",
+        "combLink": "alum-combination.htm"
+    },
+    {
+        "salt": "Aluminium",
+        "no": "3",
+        "combLink": "aluminium-combination.htm"
+    },
+    {
+        "salt": "Aluminium hydroxide",
+        "no": "50",
+        "combLink": "aluminium-hydroxide-combination.htm"
+    },
+    {
+        "salt": "Aluminium hydroxide gel",
+        "no": "2",
+        "combLink": "aluminium-hydroxide-gel-combination.htm"
+    },
+    {
+        "salt": "Aluminium Magnesium Silicate",
+        "no": "4",
+        "combLink": "aluminium-magnesium-silicate-combination.htm"
+    },
+    {
+        "salt": "Aluminum Hydroxide and Magnesium Hydroxide",
+        "no": "6",
+        "singleLink": "aluminium-hydroxide-and-magnesium-hydroxide.htm"
+    },
+    {
+        "salt": "Amantadine",
+        "no": "4",
+        "singleLink": "amantadine.htm"
+    },
+    {
+        "salt": "Amantadine Hydrochloride",
+        "no": "4",
+        "singleLink": "amantadine-hydrochloride.htm",
+        "combLink": "amantadine-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "Amaranth denatured abs.",
+        "no": "2",
+        "combLink": "amaranth-denatured-abs-combination.htm"
+    },
+    {
+        "salt": "Ambrisentan",
+        "no": "2",
+        "singleLink": "ambrisentan.htm"
+    },
+    {
+        "salt": "Ambroxil (SR)",
+        "no": "1",
+        "combLink": "ambroxil-sr-combination.htm"
+    },
+    {
+        "salt": "Ambroxil Hydrochloride",
+        "no": "1",
+        "combLink": "ambroxil-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "ambroxol",
+        "no": "543",
+        "singleLink": "ambroxol.htm",
+        "combLink": "ambroxol-combination.htm"
+    },
+    {
+        "salt": "Ambroxol (SR)",
+        "no": "10",
+        "combLink": "ambroxol-sr-combination.htm"
+    },
+    {
+        "salt": "Ambroxol Hydrochloride",
+        "no": "95",
+        "combLink": "ambroxol-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "Ambroxol Hydrochloride (SR)",
+        "no": "5",
+        "combLink": "ambroxol-hydrochloride-sr-combination.htm"
+    },
+    {
+        "salt": "Ambroxol SR",
+        "no": "2",
+        "combLink": "ambroxol-sr-combination.htm"
+    },
+    {
+        "salt": "Ambroxyl Hydrochloride",
+        "no": "5",
+        "combLink": "ambroxyl-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "Amifostin",
+        "no": "1",
+        "singleLink": "amifostin.htm"
+    },
+    {
+        "salt": "Amifostine",
+        "no": "7",
+        "singleLink": "amifostine.htm"
+    },
+    {
+        "salt": "Amikacin",
+        "no": "979",
+        "singleLink": "amikacin.htm",
+        "combLink": "amikacin-combination.htm"
+    },
+    {
+        "salt": "Amiloride",
+        "no": "3",
+        "combLink": "amiloride-combination.htm"
+    },
+    {
+        "salt": "Amiloride Hydrochloride",
+        "no": "3",
+        "combLink": "amiloride-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "Amino Acid",
+        "no": "1",
+        "combLink": "amino-acid-combination.htm"
+    },
+    {
+        "salt": "Aminocaproic acid",
+        "no": "4",
+        "singleLink": "aminocaproic-acid.htm"
+    },
+    {
+        "salt": "Aminoethyl phosphinic acid",
+        "no": "1",
+        "singleLink": "aminoethyl-phosphinic-acid.htm"
+    },
+    {
+        "salt": "Aminophylline",
+        "no": "11",
+        "singleLink": "aminophylline.htm",
+        "combLink": "aminophylline-combination.htm"
+    },
+    {
+        "salt": "Amiodarone",
+        "no": "37",
+        "singleLink": "amiodarone.htm"
+    },
+    {
+        "salt": "Amisulpride",
+        "no": "61",
+        "singleLink": "amisulpride.htm"
+    },
+    {
+        "salt": "Amitriptyline",
+        "no": "267",
+        "singleLink": "Amitriptyline.htm",
+        "combLink": "Amitriptyline-combination.htm"
+    },
+    {
+        "salt": "Amitriptyline Hydrochloride",
+        "no": "17",
+        "combLink": "amitriptyline-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "Amlexanox",
+        "no": "1",
+        "combLink": "amlexanox-combination.htm"
+    },
+    {
+        "salt": "Amlodipine",
+        "no": "756",
+        "singleLink": "amlodipine.htm",
+        "combLink": "amlodipine-combination.htm"
+    },
+    {
+        "salt": "Ammon Chloride",
+        "no": "1",
+        "combLink": "ammon-chloride-combination.htm"
+    },
+    {
+        "salt": "Ammon Cl",
+        "no": "1",
+        "singleLink": "ammon-cl.htm"
+    },
+    {
+        "salt": "Ammon lactate",
+        "no": "1",
+        "combLink": "ammon-lactate-combination.htm"
+    },
+    {
+        "salt": "Ammon molybdate",
+        "no": "1",
+        "combLink": "ammon-molybdate-combination.htm"
+    },
+    {
+        "salt": "Ammonium  Chloride",
+        "no": "1",
+        "combLink": "ammonium-chloride-combination.htm"
+    },
+    {
+        "salt": "Ammonium Chloride",
+        "no": "41",
+        "combLink": "ammonium-chloride-combination.htm"
+    },
+    {
+        "salt": "Ammonium Lactate",
+        "no": "1",
+        "singleLink": "ammonium-lactate.htm"
+    },
+    {
+        "salt": "Amodiaquine",
+        "no": "6",
+        "singleLink": "amodiaquine.htm",
+        "combLink": "amodiaquine-combination.htm"
+    },
+    {
+        "salt": "Amontelukast",
+        "no": "2",
+        "combLink": "amontelukast-combination.htm"
+    },
+    {
+        "salt": "Amorolfine",
+        "no": "2",
+        "combLink": "amorolfine-combination.htm"
+    },
+    {
+        "salt": "Amoxapine",
+        "no": "6",
+        "singleLink": "amoxapine.htm"
+    },
+    {
+        "salt": "Amoxicillin",
+        "no": "842",
+        "singleLink": "amoxicillin.htm",
+        "combLink": "amoxicillin-combination.htm"
+    },
+    {
+        "salt": "Amoxicillin Clavulanic Acid",
+        "no": "1",
+        "singleLink": "amoxicillin-clavulanic-acid.htm"
+    },
+    {
+        "salt": "Amoxicillin Sodium",
+        "no": "14",
+        "combLink": "amoxicillin-sodium-combination.htm"
+    },
+    {
+        "salt": "Amoxicillin Trihydrate",
+        "no": "29",
+        "combLink": "amoxicillin-trihydrate-combination.htm"
+    },
+    {
+        "salt": "Amoxicillin(1 tab)",
+        "no": "2",
+        "combLink": "amoxicillin-1-tab-combination.htm"
+    },
+    {
+        "salt": "Amoxicillin(2 FC-tab)",
+        "no": "2",
+        "combLink": "amoxicillin-2-fc-tab-combination.htm"
+    },
+    {
+        "salt": "Amoxicillin(2 tabs)",
+        "no": "1",
+        "combLink": "amoxicillin-2-tabs-combination.htm"
+    },
+    {
+        "salt": "Amoxxicillin",
+        "no": "1",
+        "combLink": "amoxxicillin-combination.htm"
+    },
+    {
+        "salt": "Amphotericin B",
+        "no": "26",
+        "singleLink": "amphotericin-b.htm",
+        "combLink": "amphotericin-b-combination.htm"
+    },
+    {
+        "salt": "Ampicillin",
+        "no": "628",
+        "singleLink": "ampicillin.htm",
+        "combLink": "ampicillin-combination.htm"
+    },
+    {
+        "salt": "Ampicillin and Sulbactam",
+        "no": "26",
+        "singleLink": "ampicillin-and-sulbactam.htm"
+    },
+    {
+        "salt": "Ampicillin Terihydrate",
+        "no": "2",
+        "combLink": "ampicillin-terihydrate-combination.htm"
+    },
+    {
+        "salt": "Ampicillin Trihydrate",
+        "no": "2",
+        "combLink": "ampicillin-trihydrate-combination.htm"
+    },
+    {
+        "salt": "Amrinone",
+        "no": "3",
+        "singleLink": "amrinone.htm"
+    },
+    {
+        "salt": "Amtolmetin Guacil",
+        "no": "1",
+        "singleLink": "amtolmetin-guacil.htm"
+    },
+    {
+        "salt": "Amylmetacresol",
+        "no": "1",
+        "combLink": "amylmetacresol-combination.htm"
+    },
+    {
+        "salt": "Anastrozole",
+        "no": "17",
+        "singleLink": "anastrozole.htm"
+    },
+    {
+        "salt": "Andrographic paniculata extract",
+        "no": "2",
+        "combLink": "andrographic-paniculata-extract-combination.htm"
+    },
+    {
+        "salt": "Anhydrous Benzyl Peroxide",
+        "no": "29",
+        "singleLink": "anhydrous-benzyl-peroxide.htm",
+        "combLink": "anhydrous-benzyl-peroxide-combination.htm"
+    },
+    {
+        "salt": "Anhydrous Caffeine",
+        "no": "6",
+        "combLink": "anhydrous-caffeine-combination.htm"
+    },
+    {
+        "salt": "Anhydrous Citric Acid",
+        "no": "6",
+        "combLink": "anhydrous-citric-acid-combination.htm"
+    },
+    {
+        "salt": "Anhydrous Dextrose",
+        "no": "14",
+        "combLink": "anhydrous-dextrose-combination.htm"
+    },
+    {
+        "salt": "Anio active matter",
+        "no": "1",
+        "combLink": "anio-active-matter-combination.htm"
+    },
+    {
+        "salt": "Anion active matter",
+        "no": "2",
+        "singleLink": "anion-active-matter.htm",
+        "combLink": "anion-active-matter-combination.htm"
+    },
+    {
+        "salt": "Anise Oil",
+        "no": "1",
+        "combLink": "anise-oil-combination.htm"
+    },
+    {
+        "salt": "Anti Rabies Immune Globulin",
+        "no": "6",
+        "singleLink": "anti-rabies-immune-globulin.htm",
+        "combLink": "anti-rabies-immune-globulin-combination.htm"
+    },
+    {
+        "salt": "Antioxidants",
+        "no": "1",
+        "singleLink": "antioxidants.htm"
+    },
+    {
+        "salt": "Antipyrine",
+        "no": "4",
+        "combLink": "antipyrine-combination.htm"
+    },
+    {
+        "salt": "Antithymocyte Ig",
+        "no": "10",
+        "singleLink": "antithymocyte-ig.htm"
+    },
+    {
+        "salt": "Apomorphine",
+        "no": "2",
+        "singleLink": "apomorphine.htm"
+    },
+    {
+        "salt": "Apraclonidine",
+        "no": "3",
+        "combLink": "apraclonidine-combination.htm"
+    },
+    {
+        "salt": "Aprotinin",
+        "no": "12",
+        "singleLink": "aprotinin.htm"
+    },
+    {
+        "salt": "Aqua",
+        "no": "2",
+        "singleLink": "aqua.htm"
+    },
+    {
+        "salt": "Arbutin",
+        "no": "4",
+        "singleLink": "arbutin.htm",
+        "combLink": "arbutin-combination.htm"
+    },
+    {
+        "salt": "Ardeparin",
+        "no": "2",
+        "singleLink": "ardeparin.htm"
+    },
+    {
+        "salt": "Arformoterol Tartrate",
+        "no": "4",
+        "singleLink": "arformoterol-tartrate.htm",
+        "combLink": "arformoterol-tartrate-combination.htm"
+    },
+    {
+        "salt": "Arformoterol Tartrate Inhalation",
+        "no": "1",
+        "singleLink": "arformoterol-tartrate-inhalation.htm"
+    },
+    {
+        "salt": "Arginine",
+        "no": "1",
+        "combLink": "arginine-combination.htm"
+    },
+    {
+        "salt": "Aripiprazole",
+        "no": "133",
+        "singleLink": "aripiprazole.htm"
+    },
+    {
+        "salt": "Armodafinil",
+        "no": "6",
+        "singleLink": "armodafinil.htm"
+    },
+    {
+        "salt": "Aroma",
+        "no": "2",
+        "singleLink": "aroma.htm"
+    },
+    {
+        "salt": "Arsenic Trioxide",
+        "no": "1",
+        "combLink": "arsenic-trioxide-combination.htm"
+    },
+    {
+        "salt": "Arteether",
+        "no": "27",
+        "singleLink": "arteether.htm"
+    },
+    {
+        "salt": "Artemether",
+        "no": "241",
+        "singleLink": "artemether.htm",
+        "combLink": "artemether-combination.htm"
+    },
+    {
+        "salt": "Artesunate",
+        "no": "355",
+        "singleLink": "artesunate.htm",
+        "combLink": "artesunate-combination.htm"
+    },
+    {
+        "salt": "Ascorbic Acid",
+        "no": "73",
+        "singleLink": "ascorbic-acid.htm",
+        "combLink": "ascorbic-acid-combination.htm"
+    },
+    {
+        "salt": "Ascorbic Acid (SR)",
+        "no": "1",
+        "combLink": "ascorbic-acid-sr-combination.htm"
+    },
+    {
+        "salt": "Ascorbic Acid (Vitamin C)",
+        "no": "33",
+        "singleLink": "ascorbic-acid-vitamin-c.htm",
+        "combLink": "ascorbic-acid-vitamin-c-combination.htm"
+    },
+    {
+        "salt": "Asenapine",
+        "no": "1",
+        "singleLink": "asenapine.htm"
+    },
+    {
+        "salt": "Ash",
+        "no": "11",
+        "combLink": "ash-combination.htm"
+    },
+    {
+        "salt": "Asparaginase",
+        "no": "2",
+        "singleLink": "asparaginase.htm"
+    },
+    {
+        "salt": "Aspartame",
+        "no": "9",
+        "singleLink": "aspartame.htm",
+        "combLink": "aspartame-combination.htm"
+    },
+    {
+        "salt": "Aspartic Acid",
+        "no": "1",
+        "combLink": "aspartic-acid-combination.htm"
+    },
+    {
+        "salt": "Aspirin",
+        "no": "309",
+        "singleLink": "aspirin.htm",
+        "combLink": "aspirin-combination.htm"
+    },
+    {
+        "salt": "Aspirin (Enteric Coated)",
+        "no": "7",
+        "combLink": "aspirin-enteric-coated-combination.htm"
+    },
+    {
+        "salt": "Aspirin (Modified release)",
+        "no": "1",
+        "combLink": "aspirin-modified-release-combination.htm"
+    },
+    {
+        "salt": "Aspirin Enteric Coated",
+        "no": "1",
+        "combLink": "aspirin-enteric-coated-combination.htm"
+    },
+    {
+        "salt": "Aspirin(enteric coated)",
+        "no": "1",
+        "combLink": "aspirin-enteric-coated-combination.htm"
+    },
+    {
+        "salt": "Astaxanthin",
+        "no": "13",
+        "combLink": "astaxanthin-combination.htm"
+    },
+    {
+        "salt": "Astaxanthin Complex",
+        "no": "1",
+        "combLink": "astaxanthin-complex-combination.htm"
+    },
+    {
+        "salt": "Astaxanthin10%",
+        "no": "1",
+        "combLink": "astaxanthin10percent-combination.htm"
+    },
+    {
+        "salt": "Astemizole",
+        "no": "20",
+        "singleLink": "astemizole.htm"
+    },
+    {
+        "salt": "Atazanavir",
+        "no": "10",
+        "singleLink": "atazanavir.htm",
+        "combLink": "atazanavir-combination.htm"
+    },
+    {
+        "salt": "Atenolol",
+        "no": "765",
+        "singleLink": "atenolol.htm",
+        "combLink": "atenolol-combination.htm"
+    },
+    {
+        "salt": "Atomoxetine",
+        "no": "11",
+        "singleLink": "atomoxetine.htm"
+    },
+    {
+        "salt": "Atorvastatin",
+        "no": "906",
+        "singleLink": "atorvastatin.htm",
+        "combLink": "atorvastatin-combination.htm"
+    },
+    {
+        "salt": "Atorvastatin (film coated)",
+        "no": "2",
+        "combLink": "atorvastatin-film-coated-combination.htm"
+    },
+    {
+        "salt": "Atorvastatin Calcium",
+        "no": "7",
+        "combLink": "atorvastatin-calcium-combination.htm"
+    },
+    {
+        "salt": "Atracurium",
+        "no": "11",
+        "singleLink": "atracurium.htm",
+        "combLink": "atracurium-combination.htm"
+    },
+    {
+        "salt": "Atracurium Besilate",
+        "no": "2",
+        "singleLink": "atracurium-besilate.htm"
+    },
+    {
+        "salt": "Atropine",
+        "no": "47",
+        "singleLink": "atropine.htm",
+        "combLink": "atropine-combination.htm"
+    },
+    {
+        "salt": "Atropine and Diphenoxylate",
+        "no": "1",
+        "singleLink": "atropine-and-diphenoxylate.htm"
+    },
+    {
+        "salt": "Atropine Methonitrate",
+        "no": "1",
+        "combLink": "atropine-methonitrate-combination.htm"
+    },
+    {
+        "salt": "Auranofin",
+        "no": "2",
+        "singleLink": "auranofin.htm",
+        "combLink": "auranofin-combination.htm"
+    },
+    {
+        "salt": "Avobenzone",
+        "no": "11",
+        "singleLink": "avobenzone.htm",
+        "combLink": "avobenzone-combination.htm"
+    },
+    {
+        "salt": "Azadirachta Indica Oil",
+        "no": "1",
+        "combLink": "azadirachta-indica-oil-combination.htm"
+    },
+    {
+        "salt": "Azatadine Maleate",
+        "no": "8",
+        "singleLink": "azatadine-maleate.htm",
+        "combLink": "azatadine-maleate-combination.htm"
+    },
+    {
+        "salt": "Azathioprine",
+        "no": "22",
+        "singleLink": "azathioprine.htm"
+    },
+    {
+        "salt": "Azelaic Acid",
+        "no": "2",
+        "singleLink": "azelaic-acid.htm"
+    },
+    {
+        "salt": "Azelastine",
+        "no": "10",
+        "singleLink": "azelastine.htm",
+        "combLink": "azelastine-combination.htm"
+    },
+    {
+        "salt": "Azelastine Hydrochloride",
+        "no": "2",
+        "combLink": "azelastine-hydrochloride-combination.htm"
+    },
+    {
+        "salt": "Azilsartan Medoxomil",
+        "no": "2",
+        "singleLink": "azilsartan-medoxomil.htm"
+    },
+    {
+        "salt": "Azithromycin",
+        "no": "1965",
+        "singleLink": "azithromycin.htm",
+        "combLink": "azithromycin-combination.htm"
+    },
+    {
+        "salt": "Azithromycin 250 mg Tablets",
+        "no": "1",
+        "singleLink": "azithromycin-250-mg-tablets.htm"
+    },
+    {
+        "salt": "Azithromycin 500 mg Tablets",
+        "no": "1",
+        "singleLink": "azithromycin-500-mg-tablets.htm"
+    },
+    {
+        "salt": "Azithromycin Anhydrous",
+        "no": "3",
+        "combLink": "azithromycin-anhydrous-combination.htm"
+    },
+    {
+        "salt": "Azithromycin Dihydrate",
+        "no": "2",
+        "combLink": "azithromycin-dihydrate-combination.htm"
+    },
+    {
+        "salt": "Azithromycin Trihydrate",
+        "no": "1",
+        "combLink": "azithromycin-trihydrate-combination.htm"
+    },
+    {
+        "salt": "Aztreonam",
+        "no": "47",
+        "singleLink": "aztreonam.htm"
+    },
+    {
+        "salt": "Azulene",
+        "no": "1",
+        "combLink": "azulene-combination.htm"
+    }
+]

@@ -1,0 +1,508 @@
+// user registeration example
+{
+    "firstname": "Happy",
+    "lastname": "Singh",
+    "username": "123412341234",
+    "password": "password",
+    "phoneNo": "9990957742",
+    "profilePic": "comming soon",
+    "tinNo": "tinNo001",
+    "shopInfo": {
+        "location": {
+            "type": "Point",
+            "coordinates": [77.4845755, 28.6892483]
+        },
+        "tinNo": "tinNo001",
+        "aadhaarNo": "123412341234",
+        "shopName": "Happy's Shop",
+        "shop_pics": ["one", "two"],
+        "address": {
+            "shop_no": "20",
+            "locality": "govinpuram",
+            "city": "ghaziabad",
+            "pincode": "201013",
+            "state": "UP"
+        }
+    }
+}
+
+// aggregation function
+[{
+        "$addFields": {
+            "shop_id":
+        }
+    },
+    {
+        "$group": {
+
+        }
+    }
+]
+
+
+
+//  this is to convert the lat and long..
+[{
+        "$addFields": {
+            "type": "Point"
+        }
+    },
+    {
+        "$project": {
+            "location": {
+                "type": "$type",
+                "coordinates": ["$long", "$lat"]
+            }
+        }
+    },
+    {
+        "$out": "temp_loc"
+    }
+]
+
+// db.temp_loc.find({ location: { $nearSphere: { $geometry: { type: "Point", coordinates: [ 77.4850194, 28.6837595 ] }, $maxDistance: 0.02 * PER_KM } } })
+
+// ADDING PRODUCT IN SHOP
+
+{
+    "my_mrp": 10,
+    "quantity": 20,
+    "offer": "no offer",
+    "id": "40018904"
+}
+
+// UPDATING PRODUCT QUANTITY IN SHOP >> INVENTORY <<
+
+{
+    "dec": true,
+    "value": 5,
+    "offer": "no offer",
+    "id": "40018904"
+}
+
+
+// ADDING IN MAIN DIRECTORY >> ADMIN <<
+
+[{
+    "cat": "atta-flours-sooji",
+    "all_prods": [{
+            "mrp": "30.00",
+            "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000464_8-bb-royal-sooji-bansi.jpg",
+            "w": "500 g",
+            "pack_desc": "Pouch",
+            "_id": "5a7049fb48277a2e00d0df7c",
+            "bb_uid": "10000464"
+        },
+        {
+            "mrp": "60.00",
+            "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/40018904_2-bb-royal-bansi-sooji.jpg",
+            "w": "1 kg",
+            "pack_desc": "Pouch",
+            "_id": "5a7049fb48277a2e00d0df7b",
+            "bb_uid": "40018904"
+        }
+    ],
+    "_id": "5a7049fb48277a2e00d0df7a",
+    "tlc_s": "foodgrains-oil-masala",
+    "p_brand": "bb Royal",
+    "pc_n": "Sooji, Maida & Besan",
+    "tlc_n": "Foodgrains, Oil & Masala",
+    "p_desc": "Bansi Sooji",
+    "__v": 0
+}]
+
+// QUERYING MAIN SHOP...
+// https://localhost:3443/dishes/5?brand=true&que=ram&cat=true&p_name=true
+
+// https://localhost:3443/dishes/shops/shops/shops?lat=28.689&long=77.084&dis=40
+
+
+
+
+{
+    "lat": "28.6837595",
+    "long": "77.4850194",
+    "shopName": "my room",
+    "aadhaarNo": "123412341200",
+    "tinNo": "tinNo100",
+    "shop_pics": [
+        "one",
+        "two"
+    ],
+    "all_prods": [{
+            "my_mrp": 35,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad7d081b033b781d80e4"),
+            "id": "263126",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 20,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad87081b033b781d80e6"),
+            "id": "102750",
+            "generalInfo": ObjectId("5a707d6e693f071774b9f711")
+        },
+        {
+            "my_mrp": 60,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad8d081b033b781d80e8"),
+            "id": "1201418",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 20,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad94081b033b781d80ea"),
+            "id": "102745",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 65,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad9b081b033b781d80ec"),
+            "id": "100470572",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 10,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ada9081b033b781d80ef"),
+            "id": "320391",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 160,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71adaf081b033b781d80f1"),
+            "id": "1201905",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 420,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71adb5081b033b781d80f3"),
+            "id": "1202575",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 105,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71adbd081b033b781d80f5"),
+            "id": "1201900",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 5,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71af0c081b033b781d80fa"),
+            "id": "20003289",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        }
+    ],
+    "address": {
+        "shop_no": "20",
+        "locality": "govinpuram",
+        "_id": ObjectId("5a71a4c47cf403395492eda6"),
+        "city": "ghaziabad",
+        "pincode": "201013",
+        "state": "UP"
+    },
+    "__v": 10
+} {
+    "lat": "28.682341",
+    "long": "77.5055317",
+    "shopName": "Chacha ITI res.",
+    "aadhaarNo": "123412341210",
+    "tinNo": "tinNo110",
+    "shop_pics": [
+        "one",
+        "two"
+    ],
+    "all_prods": [{
+            "my_mrp": 30,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac03081b033b781d80bb"),
+            "id": "10000464",
+            "generalInfo": ObjectId("5a7049fb48277a2e00d0df7a")
+        },
+        {
+            "my_mrp": 60,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac31081b033b781d80be"),
+            "id": "40018904",
+            "generalInfo": ObjectId("5a7049fb48277a2e00d0df7a")
+        },
+        {
+            "my_mrp": 60,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac3e081b033b781d80c0"),
+            "id": "1201422",
+            "generalInfo": ObjectId("5a707d6e693f071774b9f711")
+        },
+        {
+            "my_mrp": 10,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac4c081b033b781d80c2"),
+            "id": "294281",
+            "generalInfo": ObjectId("5a707d6e693f071774b9f711")
+        },
+        {
+            "my_mrp": 20,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac59081b033b781d80c4"),
+            "id": "102750",
+            "generalInfo": ObjectId("5a707d6e693f071774b9f711")
+        },
+        {
+            "my_mrp": 35,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac71081b033b781d80c6"),
+            "id": "275076",
+            "generalInfo": ObjectId("5a707d6e693f071774b9f711")
+        },
+        {
+            "my_mrp": 65,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac83081b033b781d80c8"),
+            "id": "40003265",
+            "generalInfo": ObjectId("5a707d6e693f071774b9f711")
+        },
+        {
+            "my_mrp": 60,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ac92081b033b781d80ca"),
+            "id": "1201418",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 10,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71aca0081b033b781d80cc"),
+            "id": "294297",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 20,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71acb0081b033b781d80ce"),
+            "id": "102745",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 35,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71acbf081b033b781d80d0"),
+            "id": "275075",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 65,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71accf081b033b781d80d2"),
+            "id": "100470572",
+            "generalInfo": ObjectId("5a707e5c6b7bd40578514747")
+        },
+        {
+            "my_mrp": 80,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71acdd081b033b781d80d4"),
+            "id": "264456",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 10,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71aced081b033b781d80d6"),
+            "id": "320391",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 5,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71acfb081b033b781d80d8"),
+            "id": "20003289",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 160,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad0a081b033b781d80da"),
+            "id": "1201905",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 420,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad19081b033b781d80dc"),
+            "id": "1202575",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 210,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad27081b033b781d80de"),
+            "id": "100022552",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 105,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad38081b033b781d80e0"),
+            "id": "1201900",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        },
+        {
+            "my_mrp": 35,
+            "quantity": 20,
+            "offer": "no offer",
+            "_id": ObjectId("5a71ad45081b033b781d80e2"),
+            "id": "263126",
+            "generalInfo": ObjectId("5a707ee76b7bd40578514750")
+        }
+    ],
+    "address": {
+        "shop_no": "10",
+        "locality": "govinpuram",
+        "_id": ObjectId("5a71a8467cf403395492edc4"),
+        "city": "ghaziabad",
+        "pincode": "201013",
+        "state": "UP"
+    },
+    "__v": 20
+}
+
+db.shops.aggregate(
+    [{
+            "$unwind": "$all_prods"
+        },
+        {
+            "$addFields": { "all_prods.aadhaar": "$aadhaarNo" }
+        },
+        {
+            "$project": { _id: 0 }
+        },
+        {
+            "$match": {
+                "$or": prod_list,
+                "location": {
+                    "$geoWithin": {
+                        "$centerSphere": [
+                            [long, lat], dis
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "$group": {
+                _id: "$aadhaarNo",
+                count: { $sum: 1 },
+                total: { $sum: "$all_prods.my_mrp" },
+                prods: { $push: "$all_prods" }
+            }
+        },
+        {
+            $sort: { count: -1 }
+        }
+    ]
+)
+
+db.shops.aggregate(
+    [{
+            "$unwind": "$all_prods"
+        },
+        {
+            "$addFields": { "all_prods.aadhaar": "$aadhaarNo" }
+        },
+        {
+            "$project": { _id: 0 }
+        },
+        {
+            "$match": {
+                "$or": prod_list,
+                "location": {
+                    "$geoWithin": {
+                        "$centerSphere": [
+                            [long, lat], dis
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "$group": {
+                _id: "$aadhaarNo",
+                count: { $sum: 1 },
+                prods: { $push: "$all_prods" }
+            }
+        },
+        {
+            $sort: { count: -1 }
+        }
+    ]
+)
+
+
+
+db.shops.aggregate(
+    [{
+            "$unwind": "$all_prods"
+        },
+        {
+            "$addFields": { "location": { "type": "Point", "coordinates": ["$long", "$lat"] } }
+        },
+        {
+            "$group": {
+                _id: "$_id",
+                "shopName": { $first: "$shopName" },
+                "aadhaarNo": {
+                    $first: "$aadhaarNo"
+                },
+                "location": {
+                    $first: "$location"
+                },
+                "tinNo": {
+                    $first: "$tinNo"
+                },
+                "shop_pics": {
+                    $first: "$shop_pics"
+                },
+                count: { $sum: 1 },
+                all_prods: { $push: "$all_prods" }
+            }
+        },
+        {
+            "$out": "temp_shop"
+        }
+    ]
+)

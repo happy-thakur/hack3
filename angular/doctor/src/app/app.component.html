@@ -1,0 +1,25 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+        <span>My App</span>
+    </mat-toolbar-row>
+</mat-toolbar>
+
+<div class="container">
+    <!-- {{ allData | json }} -->
+    <mat-list *ngIf="allData">
+        <mat-list-item *ngFor="let data of allData" (click)="openDialog(data)">
+            <!-- <button mat-button (click)="openDialog()"> -->
+            <img matListAvatar src="{{ BASE_URL +'/'+ data.detail.imgURL }}" alt="...">
+            <h3 matLine> {{data.detail.id}} </h3>
+            <p matLine>
+                <span> {{data.detail.age}} </span>
+                <!-- <span class="demo-2"> -- {{data.detail.content}} </span> -->
+            </p>
+            <!-- </button> -->
+        </mat-list-item>
+    </mat-list>
+    <div [hidden]="allData.length">
+        <mat-progress-spinner mode="indeterminate"></mat-progress-spinner>
+        <h4>Loading . . . Please Wait</h4>
+    </div>
+</div>

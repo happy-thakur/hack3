@@ -1,0 +1,33 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title>Home</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+    <div *ngIf="doctor">
+        <ion-list *ngFor="let doc of doctor">
+            <button menuClose ion-item (click)="doctorSelected($event, doc)">
+            <!-- <ion-item> -->
+                <ion-avatar item-start>
+                    <img src="{{BaseURL + doc.imgURL}}">
+                </ion-avatar>
+                <h2>{{ doc.name }}</h2>
+                <p>{{doc.qualification}}</p>
+                <p>{{doc.specialized}}</p>
+                <ion-note item-end> {{ doc.experience }} Years </ion-note>
+            <!-- </ion-item> -->
+          </button>
+        </ion-list>
+    </div>
+
+    <div [hidden]="doctor || doctorErrMess">
+        <ion-spinner></ion-spinner>
+        <h4>Loading . . . Please Wait</h4>
+    </div>
+
+</ion-content>

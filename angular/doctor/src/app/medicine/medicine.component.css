@@ -1,0 +1,5 @@
+.example-header-image {
+    /* background-image: url('{{  }}'); */
+    background-size: cover;
+    width: 40px;
+}
