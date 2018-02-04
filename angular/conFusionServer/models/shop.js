@@ -43,9 +43,13 @@ var prodSchema = new Schema({
         type: String,
         default: ""
     },
-    generalInfo: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: 'MainProd'
+    mg: {
+        type: Number,
+        default: 0
+    },
+    medName: {
+        type: String,
+        default: ""
     }
 });
 

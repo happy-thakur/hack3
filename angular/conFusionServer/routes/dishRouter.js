@@ -51,7 +51,7 @@ dishRouter.route('/')
             .catch((err) => next(err));
     })
     .post(cors.corsWithOptions, authenticate.verifyUser, (req, res, next) => {
-        Shops.find({ "aadhaarNo": req.user.username, "all_prods": { $elemMatch: { "id": req.body.id } } })
+        Shops.find({ "aadhaarNo": req.user.username, "all_prods": { $elemMatch: { "id": req.body.id, "mg": req.body.mg, "medName": req.body.medName } } })
             .then((shop) => {
 
                 console.log(shop);
@@ -62,29 +62,18 @@ dishRouter.route('/')
                     return;
                 }
 
-                MainProds.find({ "all_prods": { $elemMatch: { "bb_uid": req.body.id } } })
-                    .then((product) => {
-                        console.log("----------");
-                        console.log(product);
-                        if (product && product.length <= 0) {
-                            res.status = 400;
-                            res.json({ error: true, message: "Product dosn't exist in directory" });
-                            return;
-                        }
-                        Shops.find({ "aadhaarNo": req.user.username })
-                            .then((shop2) => {
-                                shop2 = shop2[0];
-                                console.log(product);
-                                req.body["generalInfo"] = product[0]._id;
-                                shop2["all_prods"].push(req.body);
-                                shop2.save()
-                                    .then((product) => {
-                                        console.log('Product added ', product);
-                                        res.statusCode = 200;
-                                        res.setHeader('Content-Type', 'application/json');
-                                        res.json(product);
-                                    }, (err) => next(err))
-                                    .catch((err) => next(err));
+
+                console.log("----------");
+                Shops.find({ "aadhaarNo": req.user.username })
+                    .then((shop2) => {
+                        shop2 = shop2[0];
+                        shop2["all_prods"].push(req.body);
+                        shop2.save()
+                            .then((product) => {
+                                console.log('Product added ', product);
+                                res.statusCode = 200;
+                                res.setHeader('Content-Type', 'application/json');
+                                res.json(product);
                             }, (err) => next(err))
                             .catch((err) => next(err));
                     }, (err) => next(err))
@@ -239,6 +228,7 @@ dishRouter.route('/shops/shops/getList')
         // }).catch(err => next(err));
 
         console.log("in");
+        console.log(req.body);
 
         Shops.aggregate(
             [{
@@ -279,7 +269,7 @@ dishRouter.route('/shops/shops/getList')
             // console.log("--" + data);
             res.statusCode = 200;
             res.setHeader('Content-Type', 'application/json');
-            res.json(shopDetails);
+            res.json(data2);
         }).catch(err => next(err));
 
     });
