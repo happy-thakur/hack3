@@ -224,14 +224,58 @@ dishRouter.route('/shops/shops/shops')
 
 dishRouter.route('/shops/shops/getList')
     .options(cors.corsWithOptions, (req, res) => { res.sendStatus(200); })
-    .get(cors.cors, (req, res, next) => {
+    .post(cors.cors, (req, res, next) => {
         shopDetails = [];
         // console.log("3333333");
 
-        Shops.find({ "all_prods": { $elemMatch: { "id": req.query.id } } }).then((data) => {
-            return filterShop(data, req);
-        }).then((data2) => {
-            // console.log("data");
+        // Shops.find({ "all_prods": { $elemMatch: { "id": req.query.id } } }).then((data) => {
+        //     return filterShop(data, req);
+        // }).then((data2) => {
+        //     // console.log("data");
+        //     // console.log("--" + data);
+        //     res.statusCode = 200;
+        //     res.setHeader('Content-Type', 'application/json');
+        //     res.json(shopDetails);
+        // }).catch(err => next(err));
+
+        console.log("in");
+
+        Shops.aggregate(
+            [{
+                    "$unwind": "$all_prods"
+                },
+                {
+                    "$addFields": { "all_prods.aadhaar": "$aadhaarNo" }
+                },
+                {
+                    "$project": { _id: 0 }
+                },
+                {
+                    "$match": {
+                        "$or": req.body.prod_list,
+                        "location": {
+                            "$geoWithin": {
+                                "$centerSphere": [
+                                    [req.body.long, req.body.lat], req.body.dis
+                                ]
+                            }
+                        }
+                    }
+                },
+                {
+                    "$group": {
+                        _id: "$aadhaarNo",
+                        count: { $sum: 1 },
+                        total: { $sum: "$all_prods.my_mrp" },
+                        prods: { $push: "$all_prods" }
+                    }
+                },
+                {
+                    $sort: { count: -1 }
+                }
+            ]
+        ).then((data2) => {
+            console.log(data2);
             // console.log("--" + data);
             res.statusCode = 200;
             res.setHeader('Content-Type', 'application/json');

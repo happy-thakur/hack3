@@ -437,6 +437,8 @@ db.shops.aggregate(
     ]
 )
 
+prod_list = ["id": "100022552", "id": "275075"];
+
 db.shops.aggregate(
     [{
             "$unwind": "$all_prods"
